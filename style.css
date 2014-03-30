@@ -40,6 +40,14 @@ body {
 	font: 110%/1.35 Vollkorn, serif;
 }
 
+ul, ol {
+	margin: 1em 0 0 0;
+	padding: 0 1.25em;
+}
+	li { margin: 0.5em 0 0 0; }
+
+		li:first-child { margin: 0; }
+
 #language-selector {
 	position: absolute;
 	top: 2em;
@@ -47,12 +55,18 @@ body {
 }
 	#language-selector h4 { margin: 0; }
 
-	#language-selector ul {
+	#language-selector ul,
+	li ul,
+	li ol {
 		margin: 0.2em 0 0 0;
 		padding: 0 1.15em;
 	}
 
-	#language-selector li { margin: 0; }
+	#language-selector li,
+	li ul li,
+	li ol li {
+		margin: 0;
+	}
 
 #wrapper {
 	background: #f9f9f5 url(img/mesh-top.png) right top no-repeat;
@@ -61,6 +75,11 @@ body {
 	border: 0.5em solid #edede8;
 	border-width: 0 0.5em;
 	padding: 5em 5em 3em 5em;
+}
+
+li ul,
+li ol {
+	list-style-type: disc;
 }
 
 h1, h2, h3, h4 { color: black; }
@@ -127,14 +146,6 @@ blockquote {
 		font-size: 110%;
 	}
 
-ul, ol {
-	margin: 1em 0 0 0;
-	padding: 0 1.25em;
-}
-	li { margin: 0.5em 0 0 0; }
-
-		li:first-child { margin: 0; }
-
 #table-of-contents ul { margin: 0; }
 
 	#table-of-contents ul li { margin: 0; }
@@ -169,6 +180,23 @@ h3 a:hover::before {
 }
 
 .print-only { display: none; }
+
+.error {
+	font-weight: bold;
+	color: #933;
+}
+
+.ok {
+	font-weight: bold;
+	color: #393;
+}
+
+.code {
+	background-color: #edede8;
+	border: 1px solid #bbb;
+	padding: 0 0.25em;
+	border-radius: 0.25em;
+}
 
 @media all and (max-width: 72em) {
 
