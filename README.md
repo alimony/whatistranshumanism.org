@@ -19,6 +19,8 @@ When adding or updating a translation, the variable `based_on_commit` should be 
 
 There is a translation status page at [/translation/](http://whatistranshumanism.org/translation/) that will list all translations that need to be updated because the commit they are based on differs from what is considered the latest commit. Note that this is not in fact the latest git commit, as keeping that value in source code would be logically impossible, but a variable called `latest_commit` in `_config.yml`. This also means minor changes can be made to the original without marking translations as outdated, just by not bumping the commit value of `latest_commit`.
 
+For detailed instructions on how to create or update a translation, see <a href="http://alimony.github.io/whatistranshumanism.org/translation/">this page</a>.
+
 Graphics
 --------
 The graphics in the page header and footer have been generated through a piece of [Processing](http://processing.org/) code, using the [Mesh](http://leebyron.com/else/mesh/) library by Lee Byron. This code lives in `processing/whatistranshumanism/whatistranshumanism.pde`. Running it will display a window with a random graphic. Clicking the window will generate a new graphic with its gravity towards the corner of the window nearest the clicked coordinate.
