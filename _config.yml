@@ -1,0 +1,7 @@
+safe: true
+timezone: Europe/Stockholm
+
+live_url: http://whatistranshumanism.org
+live_hostname: whatistranshumanism.org
+google_analytics_id: UA-49520727-1
+latest_commit: 547a8117f7f7985457f1e71e493b7759645381a1

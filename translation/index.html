@@ -1,0 +1,28 @@
+---
+layout: main
+---
+<h1>Translation</h1>
+
+{% comment %}
+This will list any translations that are not up-to-date, by comparing the value
+of their `last_commit` variable to the one in config.yml. If the values differ,
+we also have an easy way to link to the diff between the English version the
+translation was based on, and the latest English version. This makes it really
+simple to see what needs to be update in the translation.
+{% endcomment %}
+{% if site.pages.size > 1 %}
+	<p>These translations need to be updated:</p>
+	<ul>
+		{% for page in site.pages %}
+			{% if page.localized_language_name and page.based_on_commit != site.latest_commit %}
+				<li><a href="{{ page.url | remove:'index.html' }}">{{ page.localized_language_name }}</a> → <a href="https://github.com/alimony/whatistranshumanism.org/compare/{{ page.based_on_commit }}...{{ site.latest_commit }}">diff</a></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+{% endif %}
+
+<h3>How to translate</h3>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, dolor, ullam, consequatur, odit magnam velit distinctio mollitia hic eaque alias officiis illum iure dolore. Sint odit expedita voluptates ex facilis.</p>
+
+<p style="margin-bottom: 2em;">← <a href="/">Go back to the start page</a></p>

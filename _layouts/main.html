@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	{% comment %}
+	This will parse the current language from the page path, for use in locale
+	specific resources, such as what OpenGraph image to use.
+	{% endcomment %}
+	{% assign path_parts = page.path | split:'/' %}
+	{% if path_parts.size == 1 %}
+		{% assign current_language = 'en-US' %}
+	{% else %}
+		{% assign current_language = path_parts[0] %}
+	{% endif %}
+	<meta charset="utf-8" />
+	<title>{{ page.title }}</title>
+	<meta name="description" content="{{ page.description }}" />
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<meta property="og:title" content="{{ page.title }}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="{{ site.live_url }}{{ page.url | remove:'index.html' }}" />
+	<meta property="og:image" content="{{ site.live_url }}/img/opengraph/what-is-transhumanism-{{ current_language }}-200px.png" />
+	<meta property="og:site_name" content="{{ page.title }}" />
+	<meta property="og:description" content="{{ page.description }}" />
+	<link rel="stylesheet" href="/style.css" />
+	<link rel="canonical" href="{{ site.live_url }}{{ page.url | remove:'index.html' }}" />
+	{% unless site.ebook %}
+	<script>
+	if (window.location.hostname === '{{ site.live_hostname }}') {
+
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', '{{ site.google_analytics_id }}', '{{ site.live_hostname }}');
+		ga('require', 'linkid', 'linkid.js');
+		ga('send', 'pageview');
+
+	}
+	</script>
+	{% endunless %}
+</head>
+<body>
+
+<div id="wrapper">
+	{% comment %}
+	Display the language selector if there are any languages. The odd HTML
+	comment markers are to ensure no whitespace between each list element, since
+	that affects layout when we want to stack them inline on narrow page widths.
+	{% endcomment %}
+	{% if site.pages.size > 1 and page.read_in_another_language and site.ebook == null %}
+		<div id="language-selector">
+			<h4>{{ page.read_in_another_language }}</h4>
+			<ul><!--
+				{% for p in site.pages %}
+					{% if p.url != page.url and p.url != site.baseurl and p.read_in_another_language %}
+						--><li><a href="{{ p.url | remove:'index.html' }}">{{ p.localized_language_name }}</a></li><!--
+					{% endif %}
+				{% endfor %}
+			--></ul>
+		</div>
+	{% endif %}
+
+	{% comment %}
+	Display the main content for the current page/language.
+	{% endcomment %}
+	<div id="content">{{ content }}</div>
+
+	{% unless site.ebook == null %}<img src="/img/mesh-bottom.png" id="mesh-bottom" alt=" " width="500" height="96" />{% endunless %}
+</div>
+
+</body>
+</html>
