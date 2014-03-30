@@ -174,8 +174,7 @@ h3 a:hover::before {
 
 #mesh-bottom {
 	display: block;
-	margin-left: -5em;
-	margin-bottom: -3em;
+	margin: 1em 0 -3em -5em;
 	max-width: 100%;
 }
 
