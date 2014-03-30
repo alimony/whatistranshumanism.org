@@ -35,7 +35,7 @@ body {
 	margin: 0;
 	padding: 0 2em;
 	border-top: 1em solid #333;
-	background: #f9f9f5 url(/img/background.png);
+	background: #f9f9f5 url(img/background.png);
 	color: #333;
 	font: 110%/1.35 Vollkorn, serif;
 }
@@ -55,7 +55,7 @@ body {
 	#language-selector li { margin: 0; }
 
 #wrapper {
-	background: #f9f9f5 url(/img/mesh-top.png) right top no-repeat;
+	background: #f9f9f5 url(img/mesh-top.png) right top no-repeat;
 	max-width: 32em;
 	margin: 0 auto;
 	border: 0.5em solid #edede8;
