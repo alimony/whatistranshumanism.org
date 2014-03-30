@@ -52,7 +52,7 @@ simple to see what needs to be update in the translation.
 	</li>
 	<li>Translate the rest of the document, leaving all HTML as is. Internal links (starting with <span class="code">#</span>) should be translated as well, and be based on the title of the linked question. These “<a href="https://en.wikipedia.org/wiki/Slug_(web_publishing)#Slug">slugs</a>” are constructed by lowercasing the title, replacing all spaces with dashes, and converting all special character to ASCII. An easy way is to use an online slug generator, like <a href="http://blog.tersmitten.nl/slugify/">this one</a>.</li>
 	<li>If you know your way around <a href="https://github.com/">GitHub</a>, push your translation to a new branch and <a href="https://github.com/alimony/whatistranshumanism.org/pulls">open a pull request</a>. More info on how this works is in the <a href="https://help.github.com/articles/using-pull-requests">GitHub documentation</a>.</li>
-	<li>If not, just zip your new translation directory and send it to <a href="mailto:{{ site.translations_email }}">{{ site.translations_email }}</a>.</li>
+	<li>If not, just zip your new translation directory and send it to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.</li>
 </ol>
 
 <h4>Updating an existing translation</h4>
@@ -64,9 +64,9 @@ simple to see what needs to be update in the translation.
 	<li>Edit <span class="code">index.html</span> in the language directory, updating it according to the latest version of the original.</li>
 	<li>Open <span class="code">_config.yml</span> and copy the value of <span class="code">latest_commit</span>.</li>
 	<li>Change the value of the <span class="code">based_on_commit</span> variable in your translation by pasting the copied value from the previous step.</li>
-	<li><a href="https://github.com/alimony/whatistranshumanism.org/pulls">Open a pull request</a> for your update, or <a href="mailto:{{ site.translations_email }}">send it by email</a>.</li>
+	<li><a href="https://github.com/alimony/whatistranshumanism.org/pulls">Open a pull request</a> for your update, or <a href="mailto:{{ site.email }}">send it by email</a>.</li>
 </ol>
 
 <p>As soon as your updated translation makes it to the live site, the update needed notice on the top of this page will go away.</p>
 
-<p style="margin-bottom: 2em;">← <a href="{{ site.baseurl }}/">Go back to the start page</a></p>
+<p>← <a href="{{ site.baseurl }}/">Go back to the start page</a></p>
