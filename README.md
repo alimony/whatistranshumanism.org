@@ -23,7 +23,7 @@ For detailed instructions on how to create or update a translation, see <a href=
 
 Graphics
 --------
-The graphics in the page header and footer have been generated through a piece of [Processing](http://processing.org/) code, using the [Mesh](http://leebyron.com/else/mesh/) library by Lee Byron. This code lives in `processing/whatistranshumanism/whatistranshumanism.pde`. Running it will display a window with a random graphic. Clicking the window will generate a new graphic with its gravity towards the corner of the window nearest the clicked coordinate.
+The graphics in the page header and footer have been generated through a piece of [Processing](http://processing.org/) code, using the [Mesh](http://leebyron.com/else/mesh/) library by Lee Byron. This code lives in `_processing/whatistranshumanism/whatistranshumanism.pde`. Running it will display a window with a random graphic. Clicking the window will generate a new graphic with its gravity towards the corner of the window nearest the clicked coordinate.
 
 The window can be resized to get a graphic of a different size, and holding the tab key will display the current size (width × height) in pixels. Pressing space will save the current graphic to the `processing/whatistranshumanism` directory as a `.png` file named incrementally.
 
