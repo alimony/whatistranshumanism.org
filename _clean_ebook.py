@@ -36,7 +36,7 @@ with open(sys.argv[1], 'r+') as f:
             t.decompose()
 
     print('Removing some more unused elements entirely.')
-    for selector in ('#language-selector', '.print-only',
+    for selector in ('#languages-and-books', '.print-only',
         '.back-to-top', '#footer'):
         for t in soup.select(selector):
             t.decompose()

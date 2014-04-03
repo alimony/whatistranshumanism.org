@@ -48,21 +48,23 @@ ul, ol {
 
 		li:first-child { margin: 0; }
 
-#language-selector {
+#languages-and-books {
 	position: absolute;
 	top: 2em;
 	left: 1em;
 }
-	#language-selector h4 { margin: 0; }
+	#languages-and-books h4 { margin: 0; }
 
-	#language-selector ul,
+		#languages-and-books ul + h4 { margin-top: 1em; }
+
+	#languages-and-books ul,
 	li ul,
 	li ol {
 		margin: 0.2em 0 0 0;
 		padding: 0 1.15em;
 	}
 
-	#language-selector li,
+	#languages-and-books li,
 	li ul li,
 	li ol li {
 		margin: 0;
@@ -204,7 +206,7 @@ h3 a:hover::before {
 
 @media all and (max-width: 72em) {
 
-	#language-selector {
+	#languages-and-books {
 		position: static;
 		display: inline-block;
 		padding: 1em 0;
@@ -213,14 +215,14 @@ h3 a:hover::before {
 		background-color: #f9f9f5;
 	}
 
-		#language-selector ul { padding: 0; }
+		#languages-and-books ul { padding: 0; }
 
-			#language-selector li {
+			#languages-and-books li {
 				list-style-type: none;
 				display: inline-block;
 				margin-left: 0.65em;
 			}
-				#language-selector li:first-child { margin-left: 0; }
+				#languages-and-books li:first-child { margin-left: 0; }
 
 }
 
@@ -228,7 +230,7 @@ h3 a:hover::before {
 
 	body { padding: 0; }
 
-	#language-selector { padding: 1em; }
+	#languages-and-books { padding: 1em; }
 
 	#wrapper { padding: 1em; }
 
@@ -271,7 +273,7 @@ h3 a:hover::before {
 		max-width: none;
 	}
 
-	#language-selector,
+	#languages-and-books,
 	#mesh-bottom,
 	.back-to-top {
 		display: none;

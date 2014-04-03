@@ -47,7 +47,7 @@
 	that affects layout when we want to stack them inline on narrow page widths.
 	{% endcomment %}
 	{% if site.pages.size > 1 and page.read_in_another_language %}
-		<div id="language-selector">
+		<div id="languages-and-books">
 			<h4>{{ page.read_in_another_language }}</h4>
 			<ul><!--
 				{% for p in site.pages %}
@@ -56,6 +56,11 @@
 					{% endif %}
 				{% endfor %}
 			--></ul>
+			<h4>{{ page.download_as_ebook }}</h4>
+			<ul>
+				<li><a href="what-is-transhumanism-{{ current_language }}.epub">Epub</a> {{ page.for_various_readers }}</li><!--
+				--><li><a href="what-is-transhumanism-{{ current_language }}.mobi">Mobi</a> {{ page.for_kindle }}</li>
+			</ul>
 		</div>
 	{% endif %}
 
