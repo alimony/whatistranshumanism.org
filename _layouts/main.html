@@ -23,7 +23,6 @@
 	<meta property="og:description" content="{{ page.description }}" />
 	<link rel="stylesheet" href="{{ site.baseurl }}/style.css" />
 	<link rel="canonical" href="{{ site.live_url }}{{ page.url | remove:'index.html' }}" />
-	{% unless site.ebook %}
 	<script>
 	if (window.location.hostname === '{{ site.live_hostname }}') {
 
@@ -38,7 +37,6 @@
 
 	}
 	</script>
-	{% endunless %}
 </head>
 <body>
 
@@ -48,7 +46,7 @@
 	comment markers are to ensure no whitespace between each list element, since
 	that affects layout when we want to stack them inline on narrow page widths.
 	{% endcomment %}
-	{% if site.pages.size > 1 and page.read_in_another_language and site.ebook == null %}
+	{% if site.pages.size > 1 and page.read_in_another_language %}
 		<div id="language-selector">
 			<h4>{{ page.read_in_another_language }}</h4>
 			<ul><!--
@@ -66,7 +64,7 @@
 	{% endcomment %}
 	<div id="content">{{ content }}</div>
 
-	{% unless site.ebook %}<img src="{{ site.baseurl }}/img/mesh-bottom.png" id="mesh-bottom" alt=" " width="500" height="96" />{% endunless %}
+	<img src="{{ site.baseurl }}/img/mesh-bottom.png" id="mesh-bottom" alt=" " width="500" height="96" />
 </div>
 
 </body>

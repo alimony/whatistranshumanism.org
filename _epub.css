@@ -4,6 +4,8 @@ we can't target elements based on those attributes. Ideally, we would instead
 inherit all styles from style.css and override some, but I haven't gotten that
 working either through @import or specifying multiple epub stylesheets. */
 
+img { max-width: 100%; }
+
 h1 {
 	font-size: 300%;
 	line-height: 1;
@@ -77,6 +79,10 @@ a:visited { color: #666; }
 a:hover { color: #a33; }
 a:active { color: black; }
 
+h2 a:link,
+h2 a:visited,
+h2 a:hover,
+h2 a:active,
 h3 a:link,
 h3 a:visited,
 h3 a:hover,
