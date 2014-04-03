@@ -18,7 +18,7 @@
 	<meta property="og:title" content="{{ page.title }}" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="{{ site.live_url }}{{ page.url | remove:'index.html' }}" />
-	<meta property="og:image" content="{{ site.live_url }}/img/opengraph/what-is-transhumanism-{{ current_language }}-200px.png" />
+	<meta property="og:image" content="{{ site.live_url }}/{{ current_language | append:'/' | replace:'en-US/','' }}img/what-is-transhumanism-{{ current_language }}-200px.png" />
 	<meta property="og:site_name" content="{{ page.title }}" />
 	<meta property="og:description" content="{{ page.description }}" />
 	<link rel="stylesheet" href="{{ site.baseurl }}/style.css" />
