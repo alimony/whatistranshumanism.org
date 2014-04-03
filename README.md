@@ -23,10 +23,12 @@ For detailed instructions on how to create or update a translation, see <a href=
 
 Graphics
 --------
-The graphics in the page header and footer have been generated through a piece of [Processing](http://processing.org/) code, using the [Mesh](http://leebyron.com/else/mesh/) library by Lee Byron. This code lives in `_processing/whatistranshumanism/whatistranshumanism.pde`. Running it will display a window with a random graphic. Clicking the window will generate a new graphic with its gravity towards the corner of the window nearest the clicked coordinate.
+The graphics in the page header and footer, and on the e-book cover, have been generated through a piece of [Processing](http://processing.org/) code, using the [Mesh](http://leebyron.com/else/mesh/) library by Lee Byron. This code lives in `_processing/whatistranshumanism/whatistranshumanism.pde`. Running it will display a window with a random graphic. Clicking the window will generate a new graphic with its gravity towards the corner of the window nearest the clicked coordinate.
 
 The window can be resized to get a graphic of a different size, and holding the tab key will display the current size (width × height) in pixels. Pressing space will save the current graphic to the `processing/whatistranshumanism` directory as a `.png` file named incrementally.
 
-Ebook
+Some source graphics live in Photoshop documents in the `_psd` directory, which because of the proprietary format is sub-optimal. Until this changes, the project maintainers will generate translated graphics (currently the [e-book cover image](img/_cover-en-US.png) and the [OpenGraph image](img/what-is-transhumanism-en-US-200px.png)).
+
+E-book
 -----
-Generating `.epub` and `.mobi` files from the HTML is currently work-in-progress. Running the `_build_ebook.sh` script will attempt it, using [pandoc](http://johnmacfarlane.net/pandoc/) and [kindlegen](http://www.amazon.com/gp/feature.html?docId=1000765211), but the latter currently fails of reasons not yet figured out. Basic `.epub` generation works, although the output is still a bit confused regarding table of contents, cover page, etc.
+Generating `.epub` and `.mobi` files from the HTML is still work-in-progress. To generate e-books for all languages, run the `_build_ebook.sh` script. This will regenerate the site and make various preparations of the content and finally convert it to both formats using [pandoc](http://johnmacfarlane.net/pandoc/) and [kindlegen](http://www.amazon.com/gp/feature.html?docId=1000765211). If you have access to any devices reading these formats, please help out testing the e-books so they can be improved.

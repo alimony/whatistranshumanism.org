@@ -1,10 +1,9 @@
 #!/usr/bin/env sh
 # encoding: utf-8
 
-# This script will generate ebook files from the main web page content. This
-# works by rebuilding the site while passing an extra config file to Jekyll.
-# This extra file sets an 'ebook' variable that in turn modifies the output to
-# hide a few elements, and such, that would othersize clutter the ebook.
+# This script will generate e-book files from the main web page content. This
+# works by first rebuilding the site, then making various preparations to the
+# built files so they can finally be converted to e-books.
 
 FILES="./index.html
 es-ES/index.html
@@ -21,7 +20,7 @@ for f in $FILES; do
 		LANGUAGE_CODE="en-US"
 	fi
 
-	# Clean up HTML to make it more suitable for ebook generation.
+	# Clean up HTML to make it more suitable for e-book generation.
 	python3 _clean_ebook.py "_site/$f" &&
 
 	# Generate .epub file for various readers.

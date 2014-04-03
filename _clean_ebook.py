@@ -9,7 +9,7 @@ if len(sys.argv) < 2:
     sys.exit('No input file specified.')
 
 with open(sys.argv[1], 'r+') as f:
-    print('Preparing HTML for ebook generation...')
+    print('Preparing HTML for e-book generation...')
 
     html = f.read()
     soup = BeautifulSoup(html)
