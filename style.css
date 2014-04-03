@@ -155,6 +155,10 @@ a:visited { color: #666; }
 a:hover { color: #a33; }
 a:active { color: black; }
 
+h2 a:link,
+h2 a:visited,
+h2 a:hover,
+h2 a:active,
 h3 a:link,
 h3 a:visited,
 h3 a:hover,
@@ -163,6 +167,7 @@ h3 a:active {
 	text-decoration: none;
 }
 
+h2 a:hover::before,
 h3 a:hover::before {
 	content: "¶";
 	font-size: 90%;
