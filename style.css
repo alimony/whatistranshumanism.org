@@ -70,6 +70,12 @@ ul, ol {
 		margin: 0;
 	}
 
+.share { margin-top: 0.5em; }
+
+#footer .share { margin-top: 1em; }
+
+#footer .share + p { margin-top: 0.5em; }
+
 #wrapper {
 	background: #f9f9f5 url(img/mesh-top.png) right top no-repeat;
 	max-width: 32em;
