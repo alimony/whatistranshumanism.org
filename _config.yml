@@ -2,7 +2,6 @@ safe: true
 timezone: Europe/Stockholm
 markdown: kramdown
 
-baseurl: /whatistranshumanism.org
 live_url: http://whatistranshumanism.org
 live_hostname: whatistranshumanism.org
 email: info@whatistranshumanism.org
