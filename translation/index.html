@@ -6,33 +6,32 @@ description: The Transhumanist FAQ has a number of official translations, this p
 <h1>Translation</h1>
 
 {% comment %}
-This will list any translations that are not up-to-date, by comparing the value
+This page lists any translations that are not up-to-date, by comparing the value
 of their `last_commit` variable to the one in config.yml. If the values differ,
 we also have an easy way to link to the diff between the English version the
 translation was based on, and the latest English version. This makes it really
 simple to see what needs to be update in the translation.
 {% endcomment %}
-{% if site.pages.size > 1 %}
-	{% comment %}
-	This capture hack is a way to avoid printing anything at all if there are no
-	translations in need of update.
-	{% endcomment %}
-	{% capture need_update %}
-	<ul><!--
-		{% for p in site.pages %}
-			{% if p.localized_language_name and p.based_on_commit != site.latest_commit %}
-				--><li><a href="{{ p.url | remove:'index.html' }}">{{ p.localized_language_name }}</a> → <a href="https://github.com/alimony/whatistranshumanism.org/compare/{{ p.based_on_commit }}...{{ site.latest_commit }}">diff</a></li><!--
-			{% endif %}
-		{% endfor %}
-	--></ul>
-	{% endcapture %}
-	{% assign parts = need_update | split:'<li>' %}
-	{% if parts.size > 1 %}
-		<p class="error">These translations need to be updated:</p>
-		{{ need_update }}
-	{% else %}
-		<p class="ok">All translations are up to date.</p>
-	{% endif %}
+
+{% comment %}
+This capture hack is a way to avoid printing anything at all if there are no
+translations in need of update.
+{% endcomment %}
+{% capture need_update %}
+<ul><!--
+	{% for p in site.pages %}
+		{% if p.localized_language_name and p.based_on_commit != site.latest_commit %}
+			--><li><a href="{{ p.url | remove:'index.html' }}">{{ p.localized_language_name }}</a> → <a href="https://github.com/alimony/whatistranshumanism.org/compare/{{ p.based_on_commit }}...{{ site.latest_commit }}">diff</a></li><!--
+		{% endif %}
+	{% endfor %}
+--></ul>
+{% endcapture %}
+{% assign parts = need_update | split:'<li>' %}
+{% if parts.size > 1 %}
+	<p class="error">These translations need to be updated:</p>
+	{{ need_update }}
+{% else %}
+	<p class="ok">All translations are up to date.</p>
 {% endif %}
 
 <h3>How to translate</h3>

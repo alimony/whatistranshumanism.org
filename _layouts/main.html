@@ -53,13 +53,14 @@
 </script>
 
 <div id="wrapper">
-	{% comment %}
-	Display the language selector if there are any languages. The odd HTML
-	comment markers are to ensure no whitespace between each list element, since
-	that affects layout when we want to stack them inline on narrow page widths.
-	{% endcomment %}
-	{% if site.pages.size > 1 and page.read_in_another_language %}
-		<div id="languages-and-books">
+	<div id="languages-and-books">
+		{% comment %}
+		Display the language selector if there are any languages. The odd HTML
+		comment markers are to ensure no whitespace between each list element,
+		since that affects layout when we want to stack them inline on narrow
+		page widths.
+		{% endcomment %}
+		{% if page.read_in_another_language %}
 			<h4>{{ page.read_in_another_language }}</h4>
 			<ul><!--
 				{% for p in site.pages %}
@@ -68,15 +69,15 @@
 					{% endif %}
 				{% endfor %}
 			--></ul>
-			<h4>{{ page.download_as_ebook }}</h4>
-			<ul>
-				<li><a href="what-is-transhumanism-{{ current_language }}.epub">Epub</a> {{ page.for_ios_and_others }}</li><!--
-				--><li><a href="what-is-transhumanism-{{ current_language }}.mobi">Mobi</a> {{ page.for_kindle }}</li>
-			</ul>
-			<h4>Share:</h4>
-			{% include share.html %}
-		</div>
-	{% endif %}
+		{% endif %}
+		<h4>{{ page.download_as_ebook }}</h4>
+		<ul>
+			<li><a href="what-is-transhumanism-{{ current_language }}.epub">Epub</a> {{ page.for_ios_and_others }}</li><!--
+			--><li><a href="what-is-transhumanism-{{ current_language }}.mobi">Mobi</a> {{ page.for_kindle }}</li>
+		</ul>
+		<h4>Share:</h4>
+		{% include share.html %}
+	</div>
 
 	{% comment %}
 	Display the main content for the current page/language.
