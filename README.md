@@ -6,6 +6,7 @@ This is the source repository for [whatistranshumanism.org](http://whatistranshu
 
 There is only the `gh-pages` branch, which when pushed to will build the live site.
 
+This website is a redesigned version of the [Transhumanist FAQ](http://humanityplus.org/philosophy/transhumanist-faq/). All content is identical to the original, except for changes in markup, formatting, typography, and such. No authorship is claimed by the creators of this website. For more information, read the [about section](http://whatistranshumanism.org/#about).
 
 Development
 -----------
