@@ -69,11 +69,18 @@
 				{% endfor %}
 			--></ul>
 		{% endif %}
-		<h4>{{ page.download_as_ebook }}</h4>
-		<ul>
-			<li><a href="what-is-transhumanism-{{ current_language }}.epub">Epub</a> {{ page.for_ios_and_others }}</li><!--
-			--><li><a href="what-is-transhumanism-{{ current_language }}.mobi">Mobi</a> {{ page.for_kindle }}</li>
-		</ul>
+		{% if page.translate_to_your_language %}
+			<p><a href="{{ site.baseurl }}/translation/">{{ page.translate_to_your_language }}</a></p>
+		{% else %}
+			<p>← <a href="{{ site.baseurl }}/">Go back to start page</a></p>
+		{% endif %}
+		{% if page.download_as_ebook %}
+			<h4>{{ page.download_as_ebook }}</h4>
+			<ul>
+				<li><a href="what-is-transhumanism-{{ current_language }}.epub">Epub</a> {{ page.for_ios_and_others }}</li><!--
+				--><li><a href="what-is-transhumanism-{{ current_language }}.mobi">Mobi</a> {{ page.for_kindle }}</li>
+			</ul>
+		{% endif %}
 		<h4>Share:</h4>
 		{% include share.html %}
 	</div>

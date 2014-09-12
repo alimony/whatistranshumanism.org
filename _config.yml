@@ -5,5 +5,6 @@ markdown: kramdown
 live_url: http://whatistranshumanism.org
 live_hostname: whatistranshumanism.org
 email: info@whatistranshumanism.org
+discussion_group: https://groups.google.com/d/forum/whatistranshumanism
 google_analytics_id: UA-49520727-1
 latest_commit: 1c953bc6a9ad8cc9908d2c855f5aec8fb2a21d12
