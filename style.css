@@ -74,6 +74,8 @@ ul, ol {
 
 .share { margin-top: 0.5em; }
 
+	.share .fb-like { margin-bottom: 0.5em; }
+
 #footer .share { margin-top: 1em; }
 
 #footer .share + p { margin-top: 0.5em; }
