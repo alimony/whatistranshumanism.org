@@ -1,4 +1,6 @@
-safe: true
+gems:
+  - jekyll-sitemap
+
 timezone: Europe/Stockholm
 markdown: kramdown
 
