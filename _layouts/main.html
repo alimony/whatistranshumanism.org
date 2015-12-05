@@ -60,7 +60,7 @@
 		page widths.
 		{% endcomment %}
 		{% if page.read_in_another_language %}
-			<h4>{{ page.read_in_another_language }}</h4>
+			<h3>{{ page.read_in_another_language }}</h4>
 			<ul><!--
 				{% for p in site.pages %}
 					{% if p.url != page.url and p.url != site.baseurl and p.read_in_another_language %}
@@ -75,15 +75,15 @@
 			<p>← <a href="{{ site.baseurl }}/">Go back to start page</a></p>
 		{% endif %}
 		{% if page.download_as_ebook %}
-			<h4>{{ page.download_as_ebook }}</h4>
+			<h3>{{ page.download_as_ebook }}</h4>
 			<ul>
 				<li><a href="what-is-transhumanism-{{ current_language }}.epub">Epub</a> {{ page.for_ios_and_others }}</li><!--
 				--><li><a href="what-is-transhumanism-{{ current_language }}.mobi">Mobi</a> {{ page.for_kindle }}</li>
 			</ul>
 		{% endif %}
-		<h4>Share:</h4>
+		<h3>Share:</h4>
 		{% include share.html %}
-		<h4>Ads:</h4>
+		<h3>Ads:</h4>
 		{% include ads_top_left.html %}
 	</div>
 
