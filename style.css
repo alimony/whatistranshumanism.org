@@ -55,9 +55,7 @@ ul, ol {
 }
 	#languages-and-books > p:first-child { margin: 0 0 1em 0; }
 
-	#languages-and-books h4 { margin: 0; }
-
-		#languages-and-books ul + h4 { margin-top: 1em; }
+	#languages-and-books h4 { margin: 1em 0 0 0; }
 
 	#languages-and-books ul,
 	li ul,
