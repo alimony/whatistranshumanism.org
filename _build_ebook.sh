@@ -5,10 +5,7 @@
 # works by first rebuilding the site, then making various preparations to the
 # built files so they can finally be converted to e-books.
 
-FILES="./index.html
-es-ES/index.html
-fi-FI/index.html
-sv-SE/index.html"
+FILES="./index.html"
 
 # Build the site to make sure we are on the latest version.
 jekyll build &&
