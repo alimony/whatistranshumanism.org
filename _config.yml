@@ -1,6 +1,9 @@
 gems:
   - jekyll-sitemap
 
+sass:
+  style: compressed
+
 timezone: Europe/Stockholm
 markdown: kramdown
 
