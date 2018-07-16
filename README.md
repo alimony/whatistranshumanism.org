@@ -2,11 +2,11 @@ What is Transhumanism?
 ======================
 #### Transhumanist FAQ – version 3.0
 
-This is the source repository for [whatistranshumanism.org](http://whatistranshumanism.org/)
+This is the source repository for [whatistranshumanism.org](https://whatistranshumanism.org/)
 
 There is only the `gh-pages` branch, which when pushed to will build the live site.
 
-This is a redesigned version of the [Transhumanist FAQ](http://humanityplus.org/philosophy/transhumanist-faq/). All content is identical to the original, except for changes in markup, formatting, typography, and such. No authorship is claimed by the creators of this website. For more information, read the [about section](http://whatistranshumanism.org/#about).
+This is a redesigned version of the [Transhumanist FAQ](http://humanityplus.org/philosophy/transhumanist-faq/). All content is identical to the original, except for changes in markup, formatting, typography, and such. No authorship is claimed by the creators of this website. For more information, read the [about section](https://whatistranshumanism.org/#about).
 
 Development
 -----------
@@ -18,7 +18,7 @@ Each translation lives in a directory in the site root named after its [IETF lan
 
 When adding or updating a translation, the variable `based_on_commit` should be set to the value of `latest_commit` in `_config.yml`. This way, it can later easily be detected what has changed in the original text, and the diff can be viewed on GitHub.
 
-There is a translation status page at [/translation/](http://whatistranshumanism.org/translation/) that will list all translations that need to be updated because the commit they are based on differs from what is considered the latest commit. Note that this is not in fact the latest git commit, as keeping that value in source code would be logically impossible, but a variable called `latest_commit` in `_config.yml`. This also means minor changes can be made to the original without marking translations as outdated, just by not bumping the commit value of `latest_commit`.
+There is a translation status page at [/translation/](https://whatistranshumanism.org/translation/) that will list all translations that need to be updated because the commit they are based on differs from what is considered the latest commit. Note that this is not in fact the latest git commit, as keeping that value in source code would be logically impossible, but a variable called `latest_commit` in `_config.yml`. This also means minor changes can be made to the original without marking translations as outdated, just by not bumping the commit value of `latest_commit`.
 
 For detailed instructions on how to create or update a translation, see <a href="http://alimony.github.io/whatistranshumanism.org/translation/">this page</a>.
 

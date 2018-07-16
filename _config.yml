@@ -7,7 +7,7 @@ sass:
 timezone: Europe/Stockholm
 markdown: kramdown
 
-live_url: http://whatistranshumanism.org
+live_url: https://whatistranshumanism.org
 live_hostname: whatistranshumanism.org
 email: info@whatistranshumanism.org
 discussion_group: https://groups.google.com/d/forum/whatistranshumanism
