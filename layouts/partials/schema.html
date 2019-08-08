@@ -2,10 +2,10 @@
 	{
 		"@context": "https://schema.org",
 		"@type": "Organization",
-		"alternateName": "{{ .Site.Params.username }}",
-		"description": "{{ .Site.Params.description }}",
+		"about": "{{ .Site.Params.username }}",
+		"description": "{{ .Site.Language.Params.description }}",
 		"logo": "{{ .Site.BaseURL }}_0.png",
-		"name": "{{ .Site.Params.name }}",
+		"name": "{{ .Site.Language.Title }}",
 		"sameAs": [
 			"{{ .Site.Params.links.github }}"
 		],

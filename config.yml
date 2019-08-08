@@ -22,10 +22,10 @@ params:
 
 languages:
   en:
-    description: Transhumanism is based on the premise that the human species in its current form is not the end of our development but rather a comparatively early phase.
     languageCode: en-us
     languageLang: en
     languageName: English
-    name: What is Transhumanism?
     title: What is Transhumanism?
     weight: 0
+    params:
+      description: Transhumanism is based on the premise that the human species in its current form is not the end of our development but rather a comparatively early phase.
