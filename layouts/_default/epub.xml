@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dc:creator>Humanity+</dc:creator>
+<dc:identifier></dc:identifier>
+<dc:language>{{ .Site.Language.Lang }}</dc:language>
+<dc:publisher>Humanity+</dc:publisher>
+<dc:subject>{{ .Site.Language.Title }}</dc:subject>

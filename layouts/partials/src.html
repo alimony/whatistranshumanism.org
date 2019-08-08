@@ -6,6 +6,10 @@
 <script src="https://cdn.jsdelivr.net/gh/u29dc/set@0.1.1/dist/set.js" integrity="sha512-29D4m6vofoMfwJS8Ex0AlFh1oGRRJMBNeXIdbo+32HHl+cKX0Tujt5zTy8NK+xX5P3CTFPBb3hyRj2N5V1ddeA==" crossorigin="anonymous"></script>
 
 <!-- ########################################################################################### -->
+<!-- process epub -->
+{{ $epub := resources.Get "epub.scss" | resources.ToCSS (dict "targetPath" "epub.css") }}
+<!-- <link rel="stylesheet" href="{{ $epub.Permalink | relURL }}"> -->
+
 <!-- main -->
 {{ $css := resources.Get "main.scss" | resources.ToCSS (dict "targetPath" "main.css") }}
 <link rel="stylesheet" href="{{ $css.Permalink | relURL }}">

@@ -35,7 +35,7 @@ const
 		collapseBooleanAttributes: true,
 		collapseInlineTagWhitespace: true,
 		collapseWhitespace: true,
-		conservativeCollapse: false,
+		conservativeCollapse: true,
 		decodeEntities: true,
 		html5: true,
 		keepClosingSlash: false,
