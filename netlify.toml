@@ -1,0 +1,85 @@
+[Settings]
+
+# build settings
+[build]
+  command = "npm run build"
+  publish = "dist/"
+
+[build.environment]
+  HUGO_VERSION = "0.55.6"
+  NODE_VERSION = "12.7.0"
+
+# pgp key
+[[redirects]]
+  from = "/pgp"
+  status = 301
+  to = "https://keybase.io/username/pgp_keys.asc"
+
+[[redirects]]
+  from = "/pgp.asc"
+  status = 301
+  to = "https://keybase.io/username/pgp_keys.asc"
+
+# set headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = """
+        base-uri 'self';
+        default-src 'none';
+        font-src 'self' cdn.jsdelivr.net;
+        form-action 'self';
+        frame-ancestors 'none';
+        frame-src 'self';
+        img-src 'self' data:;
+        manifest-src 'self';
+        media-src 'self';
+        object-src 'none';
+        script-src 'self' cdn.jsdelivr.net;
+        style-src 'self' cdn.jsdelivr.net;
+        upgrade-insecure-requests;
+    """
+    Expect-CT = "max-age=86400; report-uri='https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct'"
+    Feature-Policy = "fullscreen 'self'"
+    Referrer-Policy = "strict-origin"
+    Set-Cookie = "HttpOnly; SameSite; Secure;"
+    Strict-Transport-Security = "max-age=31557600; includesubdomains; preload"
+    Vary = "Accept-Encoding"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "deny"
+    X-XSS-Protection = "1; mode=block"
+
+[[headers]]
+  for = "*.css"
+  [headers.values]
+    Content-Type = "text/css; charset=utf-8"
+
+[[headers]]
+  for = "*.js"
+  [headers.values]
+    Content-Type = "text/javascript; charset=utf-8"
+
+[[headers]]
+  for = "*.webmanifest"
+  [headers.values]
+    Content-Type = "application/manifest+json; charset=utf-8"
+
+# admin page csp
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    Content-Security-Policy = """
+        base-uri 'self';
+        default-src 'self';
+        font-src 'self';
+        form-action 'self';
+        frame-ancestors 'none';
+        frame-src 'self';
+        img-src 'self' data: raw.githubusercontent.com;
+        manifest-src 'self';
+        media-src 'self';
+        object-src 'none';
+        script-src 'self' 'unsafe-eval' cdn.jsdelivr.net;
+        style-src 'self' 'unsafe-inline' cdn.jsdelivr.net;
+        upgrade-insecure-requests;
+    """

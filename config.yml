@@ -1,0 +1,31 @@
+baseURL: https://transhumanism.netlify.com/
+canonifyURLs: false
+cleanDestinationDir: true
+copyright: Public Domain
+defaultContentLanguage: en
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
+metaDataFormat: yaml
+noTimes: true
+publishDir: dist
+relativeURLs: true
+verbose: false
+watch: true
+
+params:
+  username: u29dc
+  license: https://creativecommons.org/publicdomain/zero/1.0
+  links:
+    github: https://github.com/iinfin/whatistranshumanism.org
+
+languages:
+  en:
+    description: Transhumanism is based on the premise that the human species in its current form is not the end of our development but rather a comparatively early phase.
+    languageCode: en-us
+    languageLang: en
+    languageName: English
+    name: What is Transhumanism?
+    title: What is Transhumanism?
+    weight: 0

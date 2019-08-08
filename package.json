@@ -1,0 +1,42 @@
+{
+	"author": {
+		"name": "iinfin",
+		"url": "https://iinf.in"
+	},
+	"bugs": {
+		"url": "https://github.com/iinfin/whatistranshumanism.org/issues"
+	},
+	"description": "⧜",
+	"devDependencies": {
+		"css-declaration-sorter": "latest",
+		"gulp": "latest",
+		"gulp-autoprefixer": "latest",
+		"gulp-clean-css": "latest",
+		"gulp-cssimport": "latest",
+		"gulp-csso": "latest",
+		"gulp-htmlmin": "latest",
+		"gulp-imagemin": "latest",
+		"gulp-inline-source": "latest",
+		"gulp-jsbeautifier": "latest",
+		"gulp-minify-inline": "latest",
+		"gulp-minify-inline-json": "latest",
+		"gulp-postcss": "latest",
+		"gulp-real-favicon": "latest",
+		"gulp-shell": "latest",
+		"gulp-sri-hash": "latest",
+		"gulp-svgo": "latest",
+		"gulp-uglify-es": "latest"
+	},
+	"homepage": "https://transhumanism.netlify.com",
+	"license": "Public Domain",
+	"name": "@iinfin/whatistranshumanism.org",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/iinfin/whatistranshumanism.org"
+	},
+	"scripts": {
+		"build": "gulp",
+		"dev": "hugo server --port 1111"
+	},
+	"version": "0.0.1"
+}

@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "Organization",
+		"alternateName": "{{ .Site.Params.username }}",
+		"description": "{{ .Site.Params.description }}",
+		"logo": "{{ .Site.BaseURL }}_0.png",
+		"name": "{{ .Site.Params.name }}",
+		"sameAs": [
+			"{{ .Site.Params.links.github }}"
+		],
+		"url": "{{ .Site.BaseURL }}"
+	}
+</script>
