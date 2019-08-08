@@ -94,8 +94,6 @@ The Transhumanist FAQ was conceived as an attempt to develop a broadly based con
 
 See the introduction.
 
-[Back ↑](#toc)
-
 ## [What is a posthuman?](#what-is-a-posthuman)
 
 It is sometimes useful to talk about possible future beings whose basic capacities so radically exceed those of present humans as to be no longer unambiguously human by our current standards. The standard word for such beings is "posthuman". (Care must be taken to avoid misinter­pretation. "Posthuman" does not denote just anything that happens to come after the human era, nor does it have anything to do with the "posthumous". In particular, it does not imply that there are no humans anymore.)
@@ -122,8 +120,6 @@ The etymology of the term "transhuman" goes back to the futurist FM-2030 (also k
 
 - FM-2030, _Are You a Transhuman?_ (New York: Warner Books, 1989)
 
-[Back ↑](#toc)
-
 # [Practicalities](#practicalities)
 
 ## [What are the reasons to expect all these changes?](#what-are-the-reasons-to-expect-all-these-changes)
@@ -139,8 +135,6 @@ There are many independent methods and technologies that can enable humans to be
 ### References:
 
 - K. Eric Drexler, _Nanosystems: Molecular Machinery, Manufacturing, and Computation_, (New York: John Wiley & Sons, 1992)
-
-[Back ↑](#toc)
 
 ## [Won't these developments take thousands or millions of years?](#wont-these-developments-take-thousands-or-millions-of-years)
 
@@ -167,8 +161,6 @@ Another way of forming a view of where we are headed is by looking at trends. At
 - The Foresight Institute, ["Erroneous Predictions and Negative Comments Concerning Scientific and Technological Developments"](https://www.foresight.org/news/negativeComments.html) (2002)
 - Derek J. de Solla Price, _Little Science, Big Science …and Beyond_ (New York: Columbia University Press, 1986)
 
-[Back ↑](#toc)
-
 ## [How can I use transhumanism in my own life?](#how-can-i-use-transhumanism-in-my-own-life)
 
 While transhumanism has been known to cross over with academic agendas, ethical philosophies, political causes, and artistic movements, transhumanism is not a lifestyle, a religion, or a self-help guide. Transhumanism can't tell you what kind of music to listen to, which hobbies to pursue, whom to marry or how to live your life, any more than, say, being a member of Amnesty International or studying molecular biology could tell you these things.
@@ -177,15 +169,11 @@ Depending on your situation and your needs, you might or might not find some of 
 
 If you want to learn more about transhumanist topics, meet like-minded individuals, and participate in some way the transhumanist effort, see ["How can I get involved and contribute?"](#how-can-i-get-involved-and-contribute)
 
-[Back ↑](#toc)
-
 ## [What if it doesn't work?](#what-if-it-doesnt-work)
 
 Success in the transhumanist endeavor is not an all-or-nothing matter. There is no "it" that everything hinges on. Instead, there are many incremental processes at play, which may work better or worse, faster or more slowly. Even if we can't cure all diseases, we will cure many. Even if we don't get immortality, we can have healthier lives. Even if we can't freeze whole bodies and revive them, we can learn how to store organs for transplantation. Even if we don't solve world hunger, we can feed a lot of people. With many potentially transforming technologies already available and others in the pipeline, it is clear that there will be a large scope for human augmentation. The more powerful transhuman technologies, such as machine-phase nanotechnology and super­intelligence, can be reached through several independent paths. Should we find one path to be blocked, we can try another one. The multiplicity of routes adds to the probability that our journey will not come to a premature halt.
 
 There are ways to fail completely, namely if we succumb to an existential disaster (see ["Aren't these future technologies very risky? Could they even cause our extinction?"](#arent-these-future-technologies-very-risky-could-they-even-cause-our-extinction). Efforts to reduce existential risks are therefore a top priority.
-
-[Back ↑](#toc)
 
 ## [How could I become a posthuman?](#how-could-i-become-a-posthuman)
 
@@ -198,8 +186,6 @@ At present, there is no manner by which any human can become a posthuman. This i
 5. Join others to help promote transhumanism.
 
 Meanwhile, we can enjoy and make the most of the opportunities that exist today for living worthwhile and meaningful lives. If we compare our current lot with that of our historical ancestors, most (at least those of us who don't live in the least developed countries) will find that the material circumstances for human flourishing are the best they have ever been. In addition, we possess an unprecedented accumulation of cultural and intellectual treasures whereby we can enrich our experiences and broaden our horizons.
-
-[Back ↑](#toc)
 
 ## [Won't it be boring to live forever in a perfect world?](#wont-it-be-boring-to-live-forever-in-a-perfect-world)
 
@@ -227,8 +213,6 @@ Transhumanism is not about a fancier car, more money, or clever gadgetry, even t
 - David Pearce, [The Hedonistic Imperative](https://www.hedweb.com/) (2003)
 - Ed Regis, _Great Mambo Chicken and the Transhuman Condition_ (New York: Penguin Books, 1990)
 
-[Back ↑](#toc)
-
 ## [How can I get involved and contribute?](#how-can-i-get-involved-and-contribute)
 
 You can join Humanity+. The Humanity+ is a nonprofit, democratic membership organization that works to promote discussion of possibilities for the radical improvement of human capacities using technology, as well as of the ethical issues and risks involved in technological developments. It was founded in 1998 as an umbrella organization to publicize transhumanist ideas and to seek academic acceptance of transhumanism as a philosophical and cultural movement. Humanity+ organizes conferences, publishes H+ Magazine, (did published an academic journal), issues press statements, and coordinates student campus chapters and local transhumanist groups around the world. To find out about current projects and upcoming events, and to become a member, please visit the Humanity+ website.
@@ -243,8 +227,6 @@ The coming technological transitions may be the most important challenge that hu
 
 - [Humanity+](http://humanityplus.org/) (From this site, links to local groups and affiliated organizations can also be found.)
 
-[Back ↑](#toc)
-
 # [Society and Politics](#society-and-politics)
 
 ## [Will new technologies only benefit the rich and powerful?](#will-new-technologies-only-benefit-the-rich-and-powerful)
@@ -256,8 +238,6 @@ The typical pattern with new technologies is that they become cheaper as time go
 It is clear that everybody can benefit greatly from improved technology. Initially, however, the greatest advantages will go to those who have the resources, the skills, and the willingness to learn to use new tools. One can speculate that some technologies may cause social inequalities to widen. For example, if some form of intelligence amplification becomes available, it may at first be so expensive that only the wealthiest can afford it. The same could happen when we learn how to genetically enhance our children. Those who are already well off would become smarter and make even more money. This phenomenon is not new. Rich parents send their kids to better schools and provide them with resources such as personal connections and information technology that may not be available to the less privileged. Such advantages lead to greater earnings later in life and serve to increase social inequalities.
 
 Trying to ban technological innovation on these grounds, however, would be misguided. If a society judges existing inequalities to be unacceptable, a wiser remedy would be progressive taxation and the provision of community-funded services such as education, IT access in public libraries, genetic enhancements covered by social security, and so forth. Economic and technological progress is not a zero sum game; it's a positive sum game. Technological progress does not solve the hard old political problem of what degree of income redistribution is desirable, but it can greatly increase the size of the pie that is to be divided.
-
-[Back ↑](#toc)
 
 ## [Do transhumanists advocate eugenics?](#do-transhumanists-advocate-eugenics)
 
@@ -274,8 +254,6 @@ When discussing the morality of genetic enhancements, it is useful to be aware o
 It is sometimes claimed that the use of germinal choice technologies would lead to an undesirable uniformity of the population. Some degree of uniformity is desirable and expected if we are able to make everyone congenitally healthy, strong, intelligent, and attractive. Few would argue that we should preserve cystic fibrosis because of its contribution to diversity. But other kinds of diversity are sure to flourish in a society with germinal choice, especially once adults are able to adapt their own bodies according to their own aesthetic tastes. Presumably most Asian parents will still choose to have children with Asian features, and if some parents choose genes that encourage athleticism, others may choose genes that correlate with musical ability.
 
 It is unlikely that germ-line genetic enhancements will ever have a large impact on the world. It will take a minimum of forty or fifty years for the requisite technologies to be developed, tested, and widely applied and for a significant number of enhanced individuals to be born and reach adulthood. Before this happens, more powerful and direct methods for individuals to enhance themselves will probably be available, based on nanomedicine, artificial intelligence, uploading, or somatic gene therapy. (Traditional eugenics, based on selecting who is allowed to reproduce, would have even less prospect of avoiding preemptive obsolescence, as it would take many generations to deliver its purported improvements.)
-
-[Back ↑](#toc)
 
 ## [Aren't these future technologies very risky? Could they even cause our extinction?](#arent-these-future-technologies-very-risky-could-they-even-cause-our-extinction)
 
@@ -307,8 +285,6 @@ Evaluating the total probability that some existential disaster will do us in be
 - Mark Avrum Gubrud, ["Nanotechnology and International Security"](http://www.foresight.org/Conferences/MNT05/Papers/Gubrud/index.html), Fifth Foresight Conference on Molecular Nanotechnology (1997)
 - Eckard Wimmer et al., "Chemical Synthesis of Poliovirus cDNA: Generation of Infectious Virus in the Absence of Natural Template", _Science_ Vol. 257, No. 5583, (2002), 1016–1018
 
-[Back ↑](#toc)
-
 ## [If these technologies are so dangerous, should they be banned?](#if-these-technologies-are-so-dangerous-should-they-be-banned)
 
 What can be done to reduce the risks?
@@ -338,8 +314,6 @@ In light of how superabundant the human benefits of technology can ultimately be
 - John Leslie, _The End of the World: The Science and Ethics of Human Extinction_ (London: Routledge, 1996)
 - Martin Rees, _Our Final Hour: A Scientist's Warning_ (New York: Basic Books, 2003)
 
-[Back ↑](#toc)
-
 ## [Shouldn't we concentrate on current problems?](#shouldnt-we-concentrate-on-current-problems)
 
 such as improving the situation of the poor, rather than putting our efforts into planning for the "far" future?
@@ -351,8 +325,6 @@ Many of the technologies and trends that transhumanists discuss are already real
 Transhuman technologies will tend to work well together and create synergies with other parts of human society. For example, one important factor in healthy life expectancy is access to good medical care. Improvements in medical care will extend healthy, active lifespan – "healthspan" – and research into healthspan extension is likely to benefit ordinary care. Work on amplifying intelligence has obvious applications in education, decision-making, and communication. Better communications would facilitate trade and understanding between people. As more and more people get access to the Internet and are able to receive satellite radio and television broadcasts, dictators and totalitarian regimes may find it harder to silence voices of dissent and to control the information flow in their populations. And with the Internet and email, people discover they can easily form friendships and business partnerships in foreign countries. A world order characterized by peace, international cooperation, and respect for human rights would much improve the odds that the potentially dangerous applications of some future technologies can be controlled and would also free up resources currently spent on military armaments, some of which could then hopefully be diverted to improving the condition of the poor. Nanotechnological manufacturing promises to be both economically profitable and environmentally sound. Transhumanists do not have a patent solution to achieve these outcomes, any more than anybody else has, but technology has a huge role to play.
 
 An argument can be made that the most efficient way of contributing to making the world better is by participating in the transhumanist project. This is so because the stakes are enormous – humanity's entire future may depend on how we manage the coming technological transitions – and because relatively few resources are at the present time being devoted to transhumanist efforts. Even one extra person can still make a significant difference here.
-
-[Back ↑](#toc)
 
 ## [Will extended life worsen overpopulation problems?](#will-extended-life-worsen-overpopulation-problems)
 
@@ -390,8 +362,6 @@ If people can look forward to a longer healthy, active life, they will have a pe
 
 - United Nations, [The World Population Prospects: The 2002 Revision](http://www.un.org/esa/population/publications/wpp2002/WPP2002-HIGHLIGHTSrev1.PDF) (United Nations: New York, 2002)
 
-[Back ↑](#toc)
-
 ## [Is there any ethical standard…](#is-there-any-ethical-standard)
 
 …by which transhumanists judge "improvement of the human condition"?
@@ -412,8 +382,6 @@ Transhumanists reject speciesism, the (human racist) view that moral status is s
 
 - Mary Anne Warren, _Moral Status: Obligations to Persons and Other Living Things_ (Oxford: Oxford University Press, 1997)
 
-[Back ↑](#toc)
-
 ## [What kind of society would posthumans live in?](#what-kind-of-society-would-posthumans-live-in)
 
 Not enough information is available at the current time to provide a full answer to this question. In part, though, the answer is, "You decide." The outcome may be influenced by the choices we make now and over the coming decades. In this respect, the situation is the same as in earlier epochs that had no transhuman possibilities: by becoming involved in political struggles against today's social ills and injustices, we can help make tomorrow's society better.
@@ -423,8 +391,6 @@ Transhumanism does, however, inform us about new constraints, possibilities, and
 The ideal social organization may be one that includes the possibility for those who so wish to form independent societies voluntarily secluded from the rest of the world, in order to pursue traditional ways of life or to experiment with new forms of communal living. Achieving an acceptable balance between the rights of such communities for autonomy, on the one hand, and the security concerns of outside entities and the just demands for protection of vulnerable and oppressed individuals inside these communities on the other hand, is a delicate task and a familiar challenge in political philosophy.
 
 What types of society posthumans will live in depends on what types of posthumans eventually develop. One can project various possible developmental paths (see ["What is a posthuman?"](#what-is-a-posthuman)) which may result in very different kinds of posthuman, transhuman, and unaugmented human beings, living in very different sorts of societies. In attempting to imagine such a world, we must bear in mind that we are likely to base our expectations on the experiences, desires, and psychological characteristics of humans. Many of these expectations may not hold true of posthuman persons. When human nature changes, new ways of organizing a society may become feasible. We may hope to form a clearer understanding of what those new possibilities are as we observe the seeds of transhumanity develop.
-
-[Back ↑](#toc)
 
 ## [Will posthumans or superintelligent machines pose a threat to humans who aren't augmented?](#will-posthumans-or-superintelligent-machines-pose-a-threat-to-humans-who-arent-augmented)
 
@@ -439,8 +405,6 @@ What about the hypothetical case in which someone intends to create, or turn the
 ### References:
 
 - Eliezer Yudkowsky, [Creating Friendly AI 1.0: The Analysis and Design of Benevolent Goal Architectures](http://intelligence.org/files/CFAI.pdf) (2001)
-
-[Back ↑](#toc)
 
 # [Technologies and Projections](#technologies-and-projections)
 
@@ -463,8 +427,6 @@ The term "human cloning" covers both therapeutic and reproductive uses. In thera
 Everybody recognizes the benefit to ailing patients and their families that come from curing specific diseases. Transhumanists emphasize that, in order to seriously prolong the healthy life span, we also need to develop ways to slow aging or to replace senescent cells and tissues. Gene therapy, stem cell research, therapeutic cloning, and other areas of medicine that have the potential to deliver these benefits deserve a high priority in the allocation of research monies.
 
 Biotechnology can be seen as a special case of the more general capabilities that nanotechnology will eventually provide (see ["What is molecular nanotechnology?"](#what-is-molecular-nanotechnology)).
-
-[Back ↑](#toc)
 
 ## [What is molecular nanotechnology?](#what-is-molecular-nanotechnology)
 
@@ -511,8 +473,6 @@ Because the ramifications of nanotechnology are immense, it is imperative that s
 - Robert A. Freitas Jr., _[Nanomedicine, Volume I: Basic Capabilities.](http://www.nanomedicine.com/NMI.htm)_ (Georgetown, Texas: Landes Bioscience, 1999)
 - [Foresight Institute](http://www.foresight.org/)
 
-[Back ↑](#toc)
-
 ## [What is super­intelligence?](#what-is-superintelligence)
 
 A superintelligent intellect (a super­intelligence, sometimes called "ultraintelligence") is one that has the capacity to radically outperform the best human brains in practically every field, including scientific creativity, general wisdom, and social skills.
@@ -544,8 +504,6 @@ Many transhumanists would like to become superintelligent themselves. This is ob
 - Hans Moravec, _Mind Children_ (Harvard: Harvard University Press, 1989)
 - Nick Bostrom, ["How Long Before Super­intelligence?"](http://www.nickbostrom.com/superintelligence.html), _International Journal of Futures Studies_ Vol. 2. (1998)
 
-[Back ↑](#toc)
-
 ## [What is virtual reality?](#what-is-virtual-reality)
 
 A virtual reality is a simulated environment that your senses perceive as real.
@@ -561,8 +519,6 @@ Many users of today's VR systems experience "simulator sickness," with symptoms 
 Primitive virtual realities have been around for some time. Early applications included training modules for pilots and military personnel. Increasingly, VR is used in computer gaming. Partly because VR is computationally very intensive, simulations are still quite crude. As computational power increases, and as sensors, effectors and displays improve, VR could begin to approximate physical reality in terms of fidelity and interactivity.
 
 In the long run, VR could unlock limitless possibilities for human creativity. We could construct artificial experiential worlds, in which the laws of physics can be suspended, that would appear as real as physical reality to participants. People could visit these worlds for work, entertainment, or to socialize with friends who may be living on the opposite site of the globe. Uploads (see ["What is uploading?"](#what-is-uploading)), who could interact with simulated environments directly without the need of a mechanical interface, might spend most of their time in virtual realities.
-
-[Back ↑](#toc)
 
 ## [What is cryonics? Isn't the probability of success too small?](#what-is-cryonics-isnt-the-probability-of-success-too-small)
 
@@ -581,8 +537,6 @@ By no means are all transhumanists signed up for cryonics, but a significant fra
 ### References:
 
 - Ralph C. Merkle, ["The Molecular Repair of the Brain"](http://www.merkle.com/cryo/techFeas.html), _Cryonics Magazine_ Vol. 15, No's 1 & 2. (1994)
-
-[Back ↑](#toc)
 
 ## [What is uploading?](#what-is-uploading)
 
@@ -620,8 +574,6 @@ Uploading should work for cryonics patients provided their brains are preserved 
 
 Uploads could reproduce extremely quickly (simply by making copies of themselves). This implies that resources could very quickly become scarce unless reproduction is regulated.
 
-[Back ↑](#toc)
-
 ## [What is the singularity?](#what-is-the-singularity)
 
 Some thinkers conjecture that there will be a point in the future when the rate of technological development becomes so rapid that the progress-curve becomes nearly vertical. Within a very brief time (months, days, or even just hours), the world might be transformed almost beyond recognition. This hypothetical point is referred to as the singularity. The most likely cause of a singularity would be the creation of some form of rapidly self-enhancing greater-than-human intelligence.
@@ -637,8 +589,6 @@ Transhumanists differ widely in the probability they assign to Vinge's scenario.
 - I. J. Good, "Speculations Concerning the First Ultraintelligent Machine", in _Advances in Computers_ Vol. 6, ed. Franz L. Alt and Morris Rubinoff (Academic Press, 1965), 31–88
 - Vernor Vinge, ["The Coming Technological Singularity"](http://edoras.sdsu.edu/~vinge/misc/singularity.html), _Whole Earth Review_ Winter Issue (1993)
 - Stanislaw Ulam, "Tribute to John von Neumann", _Bulletin of the American Mathematical Society_ Vol. 64, Nr. 3, Part II, 1-49 (1958)
-
-[Back ↑](#toc)
 
 # [Transhumanism and Nature](#transhumanism-and-nature)
 
@@ -658,8 +608,6 @@ When transhumanists seek to extend human life, they are not trying to add a coup
 
 - [Cryonics Institute](http://www.cryonics.org/)
 
-[Back ↑](#toc)
-
 ## [Isn't this tampering with nature?](#isnt-this-tampering-with-nature)
 
 Absolutely, and it is nothing to be ashamed of. It is often right to tamper with nature. One could say that manipulating nature is an important part of what civilization and human intelligence is all about; we have been doing it since the invention of the wheel. Alternatively, one could say that since we are part of nature, everything we do and create is in a sense natural too. In any case, there is no moral reason why we shouldn't intervene in nature and improve it if we can, whether by eradicating diseases, improving agricultural yields to feed a growing world population, putting communication satellites into orbit to provide homes with news and entertainment, or inserting contact lenses in our eyes so we can see better. Changing nature for the better is a noble and glorious thing for humans to do. (On the other hand, to "pave paradise to put up a parking lot" would not be glorious; the qualification "for the better" is essential.) (See also ["Are transhumanist technologies environmentally sound?"](#are-transhumanist-technologies-environmentally-sound)
@@ -670,15 +618,11 @@ To pick a topical example, consider the debate about human cloning. Some argue t
 
 These remarks hopefully should seem trivial. Yet it is astonishing how often polemicists can still get a way with arguments that are basically (thinly disguised) ways of saying, "It is good because it's the way it has always been!" or "It is good because that's the way Nature made it!"
 
-[Back ↑](#toc)
-
 ## [Will transhuman technologies make us inhuman?](#will-transhuman-technologies-make-us-inhuman)
 
 The important thing is not to be human but to be humane. Though we might wish to believe that Hitler was an inhuman monster, he was, in fact, a human monster; and Gandhi is noted not for being remarkably human but for being remarkably humane.
 
 The attributes of our species are not exempt from ethical examination in virtue of being "natural" or "human". Some human attributes, such as empathy and a sense of fairness, are positive; others, such as tendencies toward tribalism or groupishness, have left deep scars on human history. If there is value in being human, it does not comes from being "normal" or "natural", but from having within us the raw material for being humane: compassion, a sense of humor, curiosity, the wish to be a better person. Trying to preserve "humanness," rather than cultivating humaneness, would idolize the bad along with the good. One might say that if "human" is what we are, then "humane" is what we, as humans, wish we were. Human nature is not a bad place to start that journey, but we can't fulfill that potential if we reject any progress past the starting point.
-
-[Back ↑](#toc)
 
 ## [Isn't death part of the natural order of things?](#isnt-death-part-of-the-natural-order-of-things)
 
@@ -700,8 +644,6 @@ It may turn out to be impossible to live forever, strictly speaking, even for th
 
 It is too early to tell whether our days are necessarily numbered. Cosmology and fundamental physics are still incomplete and in theoretical flux; theoretical possibilities for infinite information processing (which might enable an upload to live an infinite life) seem to open and close every few years. We have to live with this uncertainty, along with the much greater uncertainty about whether any of us will manage to avoid dying prematurely, before technology has become mature.
 
-[Back ↑](#toc)
-
 ## [Are transhumanist technologies environmentally sound?](#are-transhumanist-technologies-environmentally-sound)
 
 The environmental impact of a technology depends on how it is used. Safeguarding the natural environment requires political will as well as good technology. The technologies necessary for realizing the transhumanist vision can be environmentally sound. Information technology and medical procedures, for example, tend to be relatively clean.
@@ -711,8 +653,6 @@ Transhumanists can in fact make a stronger claim regarding the environment: that
 With mature molecular manufacturing (see ["What is molecular nanotechnology?"](#what-is-molecular-nanotechnology)), we will have a way of producing most any commodity without waste or pollution. Nanotechnology would also eventually make it economically feasible to build space-based solar plants, to mine extraterrestrial bodies for ore and minerals and to move heavy industries off-earth. The only truly long-term solution to resource shortage is space colonization.
 
 From a transhumanist point of view, humans and our artifacts and enterprises are part of the extended biosphere. There is no fundamental dichotomy between humanity and the rest of the world. One could say that nature has, in humanity, become conscious and self-reflective. We have the power to dream of a better ways for things to be and to deliberately set out to build our dreams, but we also have the responsibility to use this power in ways that are sustainable and that protect essential values.
-
-[Back ↑](#toc)
 
 # [Transhumanism as a Philosophical and Cultural Viewpoint](#transhumanism-as-a-philosophical-and-cultural-viewpoint)
 
@@ -778,8 +718,6 @@ In the past couple of years, the transhumanist movement has been growing fast an
 - Frank J. Tipler, _The Physics of Immortality_ (New York: Doubleday, 1994)
 - [World Transhumanist Association](http://www.transhumanism.org/)
 
-[Back ↑](#toc)
-
 ## [What currents are there within transhumanism?](#what-currents-are-there-within-transhumanism)
 
 Is Extropy (or extropianism) the same as transhumanism?
@@ -812,8 +750,6 @@ Transhumanism in arts and culture. Transhumanism as a source of inspiration in a
 - Max More, ["The Extropian Principles, v. 3.0."](http://mrob.com/pub/religion/extro_prin.html) (1998)
 - Eliezer Yudkowsky, "What is the Singularity" (2003)
 
-[Back ↑](#toc)
-
 ## [How does transhumanism relate to religion?](#how-does-transhumanism-relate-to-religion)
 
 Transhumanism is a philosophical and cultural movement concerned with promoting responsible ways of using technology to enhance human capacities and to increase the scope of human flourishing.
@@ -825,8 +761,6 @@ Transhumanism is a naturalistic outlook. At the moment, there is no hard evidenc
 Religious fanaticism, superstition, and intolerance are not acceptable among transhumanists. In many cases, these weaknesses can be overcome through a scientific and humanistic education, training in critical thinking, and interaction with people from different cultures. Certain other forms of religiosity, however, may well be compatible with transhumanism.
 
 It should be emphasized that transhumanism is not a fixed set of dogmas. It is an evolving worldview, or rather, a family of evolving worldviews – for transhumanists disagree with each other on many issues. The transhumanist philosophy, still in its formative stages, is meant to keep developing in the light of new experiences and new challenges. Transhumanists want to find out where they are wrong and to change their views accordingly.
-
-[Back ↑](#toc)
 
 ## [Won't things like uploading, cryonics, and AI fail…](#wont-things-like-uploading-cryonics-and-ai-fail)
 
@@ -842,8 +776,6 @@ While the concept of a soul is not used much in a naturalistic philosophy such a
 - Jeremy W. Hayward et al., _Gentle Bridges: Conversations with the Dalai Lama on the Sciences of Mind_ (Boston: Shambala Publications, 1992)
 - Derek Parfit, _Reasons and Persons_ (Oxford: Oxford University Press, 1984)
 
-[Back ↑](#toc)
-
 ## [What kind of transhumanist art is there?](#what-kind-of-transhumanist-art-is-there)
 
 Many kinds, but what examples one would give depends on how one defines "transhumanist art". If one defines it simply as art that is concerned with the human aspiration to overcome current limits, then a large portion of all art through the ages would count as transhumanist – from ancient myths of Promethean hubris, to religious transcendental iconography, architecture, and rituals, J. S. Bach's fugues, Goethe's Faust, through to the postmodern artists, many of whom conceived of their work as an attempt to explode conceptual barriers in order to widen the reach of human creativity.
@@ -856,8 +788,6 @@ If we narrow the definition by adding the requirement that a transhumanist telos
 
 - Natasha Vita-More, [Primo 3M+](http://www.natasha.cc/primo.htm) (2002)
 - Natasha Vita-More, ["Transhumanist Arts Statement"](http://natasha.cc/transhumanistculture.htm) (2002)
-
-[Back ↑](#toc)
 
 # Feedback
 
