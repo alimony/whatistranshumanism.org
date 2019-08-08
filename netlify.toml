@@ -9,17 +9,6 @@
   HUGO_VERSION = "0.55.6"
   NODE_VERSION = "12.7.0"
 
-# pgp key
-[[redirects]]
-  from = "/pgp"
-  status = 301
-  to = "https://keybase.io/username/pgp_keys.asc"
-
-[[redirects]]
-  from = "/pgp.asc"
-  status = 301
-  to = "https://keybase.io/username/pgp_keys.asc"
-
 # set headers
 [[headers]]
   for = "/*"
@@ -63,23 +52,3 @@
   for = "*.webmanifest"
   [headers.values]
     Content-Type = "application/manifest+json; charset=utf-8"
-
-# admin page csp
-[[headers]]
-  for = "/admin/*"
-  [headers.values]
-    Content-Security-Policy = """
-        base-uri 'self';
-        default-src 'self';
-        font-src 'self';
-        form-action 'self';
-        frame-ancestors 'none';
-        frame-src 'self';
-        img-src 'self' data: raw.githubusercontent.com;
-        manifest-src 'self';
-        media-src 'self';
-        object-src 'none';
-        script-src 'self' 'unsafe-eval' cdn.jsdelivr.net;
-        style-src 'self' 'unsafe-inline' cdn.jsdelivr.net;
-        upgrade-insecure-requests;
-    """
