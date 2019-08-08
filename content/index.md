@@ -28,66 +28,6 @@ The Transhumanist FAQ 3.0, as revised by the continued efforts of many transhuma
 
 Thank you to all who have contributed in the past and to those who offer new insights to this FAQ!
 
-# Transhumanist FAQ
-
-_– version 3.0_
-
-## General
-
-- [What is transhumanism?](#what-is-transhumanism)
-- [What is a posthuman?](#what-is-a-posthuman)
-- [What is a transhuman?](#what-is-a-transhuman)
-
-## Practicalities
-
-- [What are the reasons to expect all these changes?](#what-are-the-reasons-to-expect-all-these-changes)
-- [Won't these developments take thousands or millions of years?](#wont-these-developments-take-thousands-or-millions-of-years)
-- [How can I use transhumanism in my own life?](#how-can-i-use-transhumanism-in-my-own-life)
-- [What if it doesn't work?](#what-if-it-doesnt-work)
-- [How could I become a posthuman?](#how-could-i-become-a-posthuman)
-- [Won't it be boring to live forever in a perfect world?](#wont-it-be-boring-to-live-forever-in-a-perfect-world)
-- [How can I get involved and contribute?](#how-can-i-get-involved-and-contribute)
-
-## Society and Politics
-
-- [Will new technologies only benefit the rich and powerful?](#will-new-technologies-only-benefit-the-rich-and-powerful)
-- [Do transhumanists advocate eugenics?](#do-transhumanists-advocate-eugenics)
-- [Aren't these future technologies very risky? Could they even cause our extinction?](#arent-these-future-technologies-very-risky-could-they-even-cause-our-extinction)
-- [If these technologies are so dangerous, should they be banned?](#if-these-technologies-are-so-dangerous-should-they-be-banned)
-- [Shouldn't we concentrate on current problems?](#shouldnt-we-concentrate-on-current-problems)
-- [Will extended life worsen overpopulation problems?](#will-extended-life-worsen-overpopulation-problems)
-- [Is there any ethical standard…](#is-there-any-ethical-standard)
-- [What kind of society would posthumans live in?](#what-kind-of-society-would-posthumans-live-in)
-- [Will posthumans or superintelligent machines pose a threat to humans who aren't augmented?](#will-posthumans-or-superintelligent-machines-pose-a-threat-to-humans-who-arent-augmented)
-
-## Technologies and Projections
-
-- [Biotechnology, genetic engineering, stem cells, and cloning](#biotechnology-genetic-engineering-stem-cells-and-cloning)
-- [What is molecular nanotechnology?](#what-is-molecular-nanotechnology)
-- [What is super­intelligence?](#what-is-superintelligence)
-- [What is virtual reality?](#what-is-virtual-reality)
-- [What is cryonics? Isn't the probability of success too small?](#what-is-cryonics-isnt-the-probability-of-success-too-small)
-- [What is uploading?](#what-is-uploading)
-- [What is the singularity?](#what-is-the-singularity)
-
-## Transhumanism and Nature
-
-- [Why do transhumanists want to live longer?](#why-do-transhumanists-want-to-live-longer)
-- [Isn't this tampering with nature?](#isnt-this-tampering-with-nature)
-- [Will transhuman technologies make us inhuman?](#will-transhuman-technologies-make-us-inhuman)
-- [Isn't death part of the natural order of things?](#isnt-death-part-of-the-natural-order-of-things)
-- [Are transhumanist technologies environmentally sound?](#are-transhumanist-technologies-environmentally-sound)
-
-## Transhumanism as a Philosophical and Cultural Viewpoint
-
-- [What are the philosophical and cultural antecedents of transhumanism?](#what-are-the-philosophical-and-cultural-antecedents-of-transhumanism)
-- [What currents are there within transhumanism?](#what-currents-are-there-within-transhumanism)
-- [How does transhumanism relate to religion?](#how-does-transhumanism-relate-to-religion)
-- [Won't things like uploading, cryonics, and AI fail…](#wont-things-like-uploading-cryonics-and-ai-fail)
-- [What kind of transhumanist art is there?](#what-kind-of-transhumanist-art-is-there)
-
-The Transhumanist FAQ was conceived as an attempt to develop a broadly based consensus articulation of the basics of responsible transhumanism. The aim was a text that could serve both as a guide to those new to the field and as a reference work for more seasoned participants.
-
 # [General](#general)
 
 ## [What is transhumanism?](#what-is-transhumanism)
