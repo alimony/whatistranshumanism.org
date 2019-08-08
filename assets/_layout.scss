@@ -4,6 +4,10 @@ main {
 	width: 90vw;
 }
 
+nav {
+	display: none;
+}
+
 h1,
 h2,
 h3,
@@ -14,4 +18,9 @@ p,
 blockquote,
 ul {
 	margin: 2rem 0;
+}
+
+ol li,
+ul li {
+	margin: 1rem 0;
 }

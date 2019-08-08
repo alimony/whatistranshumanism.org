@@ -8,3 +8,8 @@ body {
 h1 {
 	font-size: 3rem;
 }
+
+blockquote {
+	border-left: 0.2rem solid var(--c050);
+	padding: 0 0 0 2.5rem;
+}
