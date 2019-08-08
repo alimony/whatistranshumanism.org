@@ -861,8 +861,6 @@ If we narrow the definition by adding the requirement that a transhumanist telos
 
 # Feedback
 
-{{ partial "share.html" . }}
-
 This is a redesigned version of the [Transhumanist FAQ](http://humanityplus.org/philosophy/transhumanist-faq/). All content is identical to the original, except for changes in markup, formatting, typography, and such. No authorship is claimed by the creators of this website. For more information, read the [about section](#about).
 
 Found any errors, or something else that should be changed? [Open an issue](https://github.com/alimony/whatistranshumanism.org/issues) on GitHub, or send an email to [info@whatistranshumanism.org](mailto:info@whatistranshumanism.org). Information on development can be [found on GitHub](https://github.com/alimony/whatistranshumanism.org), and on translating it [here](https://whatistranshumanism.org/translation).
