@@ -101,7 +101,7 @@ Another way of forming a view of where we are headed is by looking at trends. At
 **References**
 
 - The Foresight Institute, ["Erroneous Predictions and Negative Comments Concerning Scientific and Technological Developments"](https://www.foresight.org/news/negativeComments.html) (2002)
-- Derek J. de Solla Price, _Little Science, Big Science …and Beyond_ (New York: Columbia University Press, 1986)
+- Derek J. de Solla Price, _Little Science, Big Science... and Beyond_ (New York: Columbia University Press, 1986)
 
 ## How can I use transhumanism in my own life?
 
@@ -306,7 +306,7 @@ If people can look forward to a longer healthy, active life, they will have a pe
 
 ## Is there any ethical standard...
 
-…by which transhumanists judge "improvement of the human condition"?
+...by which transhumanists judge "improvement of the human condition"?
 
 Transhumanism is compatible with a variety of ethical systems, and transhumanists themselves hold many different views. Nonetheless, the following seems to constitute a common core of agreement:
 
@@ -706,7 +706,7 @@ It should be emphasized that transhumanism is not a fixed set of dogmas. It is a
 
 ## Won't things like uploading, cryonics, and AI fail...
 
-…because they can't preserve or create the soul?
+...because they can't preserve or create the soul?
 
 If we answer this question from a religious standpoint, there is no clear ground for ruling out these technologies as incompatible with teachings about the soul. There is no scriptural basis in the Bible for assuming that God can't get to our soul if we freeze our physical body, nor is there a single word in the Christian or Jewish scriptures, or the Quran, the Dhammapada, or the Tao Teh Ching, that prohibits cryonics. Or, for someone who believes in reincarnation, there are no traditional beliefs that say reincarnation is prevented when someone freezes to death or whose body is frozen after clinical death. If there is a soul and it enters the body at conception, then cryonics may well work – after all, human embryos have been frozen, stored for extended periods, and then implanted in their mothers, resulting in healthy children (who presumably have souls). Uploading and machine intelligence may reveal new things to us about the soul works. It is interesting to note that the Dalai Lama, when asked, did not rule out the possibility of reincarnating into computers (Hayward et al. 1992), 152f.
 
