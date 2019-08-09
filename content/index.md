@@ -9,7 +9,9 @@ layout: "home"
 
 Transhumanism is a loosely defined movement that has developed gradually over the past two decades.
 
-> Transhumanism is a class of philosophies of life that seek the continuation and acceleration of the evolution of intelligent life beyond its currently human form and human limitations by means of science and technology, guided by life-promoting principles and values. <br> — Max More (1990)
+{{< quote author="Max More" date="1990" >}}
+Transhumanism is a class of philosophies of life that seek the continuation and acceleration of the evolution of intelligent life beyond its currently human form and human limitations by means of science and technology, guided by life-promoting principles and values.
+{{< /quote >}}
 
 [Humanity+](http://humanityplus.org/) formally defines it based on Max More's original definition as follows:
 
@@ -80,11 +82,15 @@ The vast majority of transhumanists think that super­intelligence and nanotechn
 
 It would be possible to give a long list of examples where people in the past have solemnly declared that something was technologically absolutely impossible:
 
-> The secrets of flight will not be mastered within our lifetime – not within a thousand years. <br> — Wilbur Wright (1901)
+{{< quote author="Wilbur Wright" date="1901" >}}
+The secrets of flight will not be mastered within our lifetime – not within a thousand years.
+{{< /quote >}}
 
 or socially irrelevant:
 
-> There is no reason why anyone would want a computer in their home. <br> – Ken Olsen, President, Chairman and Founder of Digital Equipment Corporation (1977)
+{{< quote author="Ken Olsen" date="1977" >}}
+There is no reason why anyone would want a computer in their home.
+{{< /quote >}}
 
 – only to see it happen few years later. However, one could give an equally long list of cases of predicted breakthroughs that failed to occur. The question cannot be settled by enumerating historical parallels.
 

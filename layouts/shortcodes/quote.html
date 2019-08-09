@@ -1,0 +1,12 @@
+{{ $.Scratch.Set "author" false }}
+{{ $.Scratch.Set "date" false }}
+
+{{ if .IsNamedParams }}
+{{ $.Scratch.Set "author" (.Get "author") }}
+{{ $.Scratch.Set "date" (.Get "date") }}
+{{ end }}
+
+<blockquote>
+	<p>{{ .Inner | markdownify }}</p>
+	<strong>— {{ with $.Scratch.Get "author" }}{{ . }}{{ end }}</strong> ({{ with $.Scratch.Get "date" }}{{ . }}{{ end }})
+</blockquote>
