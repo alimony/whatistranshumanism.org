@@ -13,7 +13,7 @@ Transhumanism is a loosely defined movement that has developed gradually over th
 Transhumanism is a class of philosophies of life that seek the continuation and acceleration of the evolution of intelligent life beyond its currently human form and human limitations by means of science and technology, guided by life-promoting principles and values.
 {{< /quote >}}
 
-[Humanity+](http://humanityplus.org/) formally defines it based on Max More's original definition as follows:
+[Humanity+](https://humanityplus.org) formally defines it based on Max More's original definition as follows:
 
 1. The intellectual and cultural movement that affirms the possibility and desirability of fundamentally improving the human condition through applied reason, especially by developing and making widely available technologies to eliminate aging and to greatly enhance human intellectual, physical, and psychological capacities.
 2. The study of the ramifications, promises, and potential dangers of technologies that will enable us to overcome fundamental human limitations, and the related study of the ethical matters involved in developing and using such technologies.
@@ -100,7 +100,7 @@ Another way of forming a view of where we are headed is by looking at trends. At
 
 **References**
 
-- The Foresight Institute, ["Erroneous Predictions and Negative Comments Concerning Scientific and Technological Developments"](https://www.foresight.org/news/negativeComments.html) (2002)
+- The Foresight Institute, ["Erroneous Predictions and Negative Comments Concerning Scientific and Technological Developments"](https://foresight.org/news/negativeComments.html) (2002)
 - Derek J. de Solla Price, _Little Science, Big Science... and Beyond_ (New York: Columbia University Press, 1986)
 
 ## How can I use transhumanism in my own life?
@@ -152,7 +152,7 @@ Transhumanism is not about a fancier car, more money, or clever gadgetry, even t
 
 **References**
 
-- David Pearce, [The Hedonistic Imperative](https://www.hedweb.com/) (2003)
+- David Pearce, [The Hedonistic Imperative](https://hedweb.com) (2003)
 - Ed Regis, _Great Mambo Chicken and the Transhuman Condition_ (New York: Penguin Books, 1990)
 
 ## How can I get involved and contribute?
@@ -167,7 +167,7 @@ The coming technological transitions may be the most important challenge that hu
 
 **References**
 
-- [Humanity+](http://humanityplus.org/) (From this site, links to local groups and affiliated organizations can also be found.)
+- [Humanity+](https://humanityplus.org) (From this site, links to local groups and affiliated organizations can also be found.)
 
 # Society and Politics
 
@@ -221,10 +221,10 @@ Evaluating the total probability that some existential disaster will do us in be
 
 **References**
 
-- Nick Bostrom, ["Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards"](http://www.nickbostrom.com/existential/risks.html), _Journal of Evolution and Technology_ Vol. 9 (2002)
+- Nick Bostrom, ["Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards"](https://nickbostrom.com/existential/risks.html), _Journal of Evolution and Technology_ Vol. 9 (2002)
 - Center for Responsible Nanotechnology, ["Dangers of Molecular Manufacturing"](http://www.crnano.org/dangers.htm) (2003)
-- Foresight Institute, ["Foresight Guidelines on Molecular Nanotechnology, version 3.7"](http://www.foresight.org/guidelines/current.html) (2000)
-- Mark Avrum Gubrud, ["Nanotechnology and International Security"](http://www.foresight.org/Conferences/MNT05/Papers/Gubrud/index.html), Fifth Foresight Conference on Molecular Nanotechnology (1997)
+- Foresight Institute, ["Foresight Guidelines on Molecular Nanotechnology, version 3.7"](https://foresight.org/guidelines/current.html) (2000)
+- Mark Avrum Gubrud, ["Nanotechnology and International Security"](https://foresight.org/Conferences/MNT05/Papers/Gubrud/index.html), Fifth Foresight Conference on Molecular Nanotechnology (1997)
 - Eckard Wimmer et al., "Chemical Synthesis of Poliovirus cDNA: Generation of Infectious Virus in the Absence of Natural Template", _Science_ Vol. 257, No. 5583, (2002), 1016–1018
 
 ## If these technologies are so dangerous, should they be banned?
@@ -251,8 +251,8 @@ In light of how superabundant the human benefits of technology can ultimately be
 
 **References**
 
-- Nick Bostrom, ["Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards"](http://www.nickbostrom.com/existential/risks.html), _Journal of Evolution and Technology_ Vol. 9 (2002)
-- Bill Joy, ["Why the future doesn't need us."](https://www.wired.com/2000/04/joy-2/). _Wired_ 8:04 (2000)
+- Nick Bostrom, ["Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards"](https://nickbostrom.com/existential/risks.html), _Journal of Evolution and Technology_ Vol. 9 (2002)
+- Bill Joy, ["Why the future doesn't need us."](https://wired.com/2000/04/joy-2/). _Wired_ 8:04 (2000)
 - John Leslie, _The End of the World: The Science and Ethics of Human Extinction_ (London: Routledge, 1996)
 - Martin Rees, _Our Final Hour: A Scientist's Warning_ (New York: Basic Books, 2003)
 
@@ -302,7 +302,7 @@ If people can look forward to a longer healthy, active life, they will have a pe
 
 **References**
 
-- United Nations, [The World Population Prospects: The 2002 Revision](http://www.un.org/esa/population/publications/wpp2002/WPP2002-HIGHLIGHTSrev1.PDF) (United Nations: New York, 2002)
+- United Nations, [The World Population Prospects: The 2002 Revision](https://population.un.org/wpp/Publications/Files/WPP2012_HIGHLIGHTS.pdf) (United Nations: New York, 2002)
 
 ## Is there any ethical standard...
 
@@ -346,7 +346,7 @@ What about the hypothetical case in which someone intends to create, or turn the
 
 **References**
 
-- Eliezer Yudkowsky, [Creating Friendly AI 1.0: The Analysis and Design of Benevolent Goal Architectures](http://intelligence.org/files/CFAI.pdf) (2001)
+- Eliezer Yudkowsky, [Creating Friendly AI 1.0: The Analysis and Design of Benevolent Goal Architectures](https://intelligence.org/files/CFAI.pdf) (2001)
 
 # Technologies and Projections
 
@@ -402,7 +402,7 @@ Yet another route is biochemistry. It might be possible to use ribosomes to make
 
 Combinations of these approaches are of course also possible. The fact that there are multiple promising routes adds to the likelihood that success will eventually be attained.
 
-That assemblers of general capabilities are consistent with the laws of chemistry was shown by Drexler in his technical book Nanosystems in 1992. This book also established some lower bounds on the capabilities of mature nanotechnology. Medical applications of nanotechnology were first explored in detail by Robert A. Freitas Jr. in his monumental work [Nanomedicine](http://www.nanomedicine.com/NMI.htm), the first volume of which came out in 1999. Today, nanotech is a hot research field. The U.S. government spent more than 600 million dollars on its National Nanotechnology Initiative in 2002. Other countries have similar programs, and private investment is ample. However, only a small part of the funding goes to projects of direct relevance to the development of assembler-based nanotechnology; most of it is for more humdrum, near-term objectives.
+That assemblers of general capabilities are consistent with the laws of chemistry was shown by Drexler in his technical book Nanosystems in 1992. This book also established some lower bounds on the capabilities of mature nanotechnology. Medical applications of nanotechnology were first explored in detail by Robert A. Freitas Jr. in his monumental work [Nanomedicine](https://amzn.com/157059645X), the first volume of which came out in 1999. Today, nanotech is a hot research field. The U.S. government spent more than 600 million dollars on its National Nanotechnology Initiative in 2002. Other countries have similar programs, and private investment is ample. However, only a small part of the funding goes to projects of direct relevance to the development of assembler-based nanotechnology; most of it is for more humdrum, near-term objectives.
 
 While it seems fairly well established that molecular nanotechnology is in principle possible, it is harder to determine how long it will take to develop. A common guess among the cognoscenti is that the first assembler may be built around the year 2018, give or take a decade, but there is large scope for diverging opinion on the upper side of that estimate.
 
@@ -410,10 +410,10 @@ Because the ramifications of nanotechnology are immense, it is imperative that s
 
 **References**
 
-- K. Eric Drexler, _[Engines of Creation: The Coming Era of Nanotechnology](http://e-drexler.com/p/06/00/EOC_Cover.html)_, (New York: Anchor Books, 1986)
+- K. Eric Drexler, _[Engines of Creation: The Coming Era of Nanotechnology](https://www.nanowerk.com/nanotechnology/reports/reportpdf/report47.pdf)_, (New York: Anchor Books, 1986)
 - K. Eric Drexler, _Nanosystems: Molecular Machinery, Manufacturing, and Computation_, (New York: John Wiley & Sons, Inc., 1992)
-- Robert A. Freitas Jr., _[Nanomedicine, Volume I: Basic Capabilities.](http://www.nanomedicine.com/NMI.htm)_ (Georgetown, Texas: Landes Bioscience, 1999)
-- [Foresight Institute](http://www.foresight.org/)
+- Robert A. Freitas Jr., _[Nanomedicine, Volume I: Basic Capabilities.](https://amzn.com/157059645X)_ (Georgetown, Texas: Landes Bioscience, 1999)
+- [Foresight Institute](https://foresight.org)
 
 ## What is super­intelligence?
 
@@ -444,7 +444,7 @@ Many transhumanists would like to become superintelligent themselves. This is ob
 **References**
 
 - Hans Moravec, _Mind Children_ (Harvard: Harvard University Press, 1989)
-- Nick Bostrom, ["How Long Before Super­intelligence?"](http://www.nickbostrom.com/superintelligence.html), _International Journal of Futures Studies_ Vol. 2. (1998)
+- Nick Bostrom, ["How Long Before Super­intelligence?"](https://nickbostrom.com/superintelligence.html), _International Journal of Futures Studies_ Vol. 2. (1998)
 
 ## What is virtual reality?
 
@@ -478,7 +478,7 @@ By no means are all transhumanists signed up for cryonics, but a significant fra
 
 **References**
 
-- Ralph C. Merkle, ["The Molecular Repair of the Brain"](http://www.merkle.com/cryo/techFeas.html), _Cryonics Magazine_ Vol. 15, No's 1 & 2. (1994)
+- Ralph C. Merkle, ["The Molecular Repair of the Brain"](https://merkle.com/cryo/techFeas.html), _Cryonics Magazine_ Vol. 15, No's 1 & 2. (1994)
 
 ## What is uploading?
 
@@ -529,7 +529,7 @@ Transhumanists differ widely in the probability they assign to Vinge's scenario.
 **References**
 
 - I. J. Good, "Speculations Concerning the First Ultraintelligent Machine", in _Advances in Computers_ Vol. 6, ed. Franz L. Alt and Morris Rubinoff (Academic Press, 1965), 31–88
-- Vernor Vinge, ["The Coming Technological Singularity"](http://edoras.sdsu.edu/~vinge/misc/singularity.html), _Whole Earth Review_ Winter Issue (1993)
+- Vernor Vinge, ["The Coming Technological Singularity"](https://edoras.sdsu.edu/~vinge/misc/singularity.html), _Whole Earth Review_ Winter Issue (1993)
 - Stanislaw Ulam, "Tribute to John von Neumann", _Bulletin of the American Mathematical Society_ Vol. 64, Nr. 3, Part II, 1-49 (1958)
 
 # Transhumanism and Nature
@@ -548,7 +548,7 @@ When transhumanists seek to extend human life, they are not trying to add a coup
 
 **References**
 
-- [Cryonics Institute](http://www.cryonics.org/)
+- [Cryonics Institute](https://cryonics.org)
 
 ## Isn't this tampering with nature?
 
@@ -640,25 +640,25 @@ In the past couple of years, the transhumanist movement has been growing fast an
 
 **References**
 
-- Francis Bacon, _[Novum Organum](http://www.constitution.org/bacon/nov_org.htm)_ (New York: Colonial Press, 1899 \[1620\])
-- John Desmond Bernal, _[The World, the Flesh & the Devil: An Enquiry into the Future of the Three Enemies of the Rational Soul](http://www.santafe.edu/%7Eshalizi/Bernal/)_ (Bloomington: Indiana University Press, 1969 \[1929\])
-- K. Eric Drexler, _[Engines of Creation: The Coming Era of Nanotechnology](http://e-drexler.com/p/06/00/EOC_Cover.html)_ (New York: Anchor Books, 1986)
-- Robert Ettinger, _[The Prospect of Immortality](http://www.cryonics.org/resources/the-prospect-of-immortality)_ (New York: Doubleday, 1964)
-- Robert Ettinger, _[Man into Superman](http://www.cryonics.org/resources/man-into-superman)_ (New York: St. Martin's, 1972)
+- Francis Bacon, _[Novum Organum](https://earlymoderntexts.com/assets/pdfs/bacon1620.pdf)_ (New York: Colonial Press, 1899 \[1620\])
+- John Desmond Bernal, _[The World, the Flesh & the Devil: An Enquiry into the Future of the Three Enemies of the Rational Soul](https://amzn.com/1786630923)_ (Bloomington: Indiana University Press, 1969 \[1929\])
+- K. Eric Drexler, _[Engines of Creation: The Coming Era of Nanotechnology](https://www.nanowerk.com/nanotechnology/reports/reportpdf/report47.pdf)_ (New York: Anchor Books, 1986)
+- Robert Ettinger, _[The Prospect of Immortality](https://cryonics.org/resources/the-prospect-of-immortality)_ (New York: Doubleday, 1964)
+- Robert Ettinger, _[Man into Superman](https://cryonics.org/resources/man-into-superman)_ (New York: St. Martin's, 1972)
 - Extropy Institute
-- Richard P. Feynman, ["There is Plenty of Room at the Bottom,"](http://www.zyvex.com/nanotech/feynman.html) Presentation given on December 29th, 1959 at the annual meeting of the American Physical Society at the California Institute of Technology, published in _Engineering and Science_, Feb 1960
+- Richard P. Feynman, ["There is Plenty of Room at the Bottom,"](https://web.pa.msu.edu/people/yang/RFeynman_plentySpace.pdf) Presentation given on December 29th, 1959 at the annual meeting of the American Physical Society at the California Institute of Technology, published in _Engineering and Science_, Feb 1960
 - FM-2030, _Are You a Transhuman?_ (New York: Warner Books, 1989)
-- [Foresight Institute](http://www.foresight.org/)
-- J. B. S. Haldane, _[Daedalus or Science and the Future](http://bactra.org/Daedalus.html)_ (New York: E. P. Dutton & Co., Inc., 1924 \[1923\])
+- [Foresight Institute](https://foresight.org)
+- J. B. S. Haldane, _[Daedalus or Science and the Future](https://marxists.org/archive/haldane/works/1920s/daedalus.htm)_ (New York: E. P. Dutton & Co., Inc., 1924 \[1923\])
 - Aldous Huxley, _Brave New World_, (San Bernadino: The Borgo Press, 1989 \[1932\])
 - Julian Huxley, _New Bottles for New Wine: Ideology and Scientific Knowledge_, (New York: Harper, 1957)
-- [Journal of Evolution and Technology](http://www.jetpress.org/)
-- Giovanni Pico della Mirandola, _[Oration on the Dignity of Man](http://www.santafe.edu/%7Eshalizi/Mirandola/)_ (1486)
+- [Journal of Evolution and Technology](https://jetpress.org)
+- Giovanni Pico della Mirandola, _[Oration on the Dignity of Man](http://bactra.org/Mirandola)_ (1486)
 - Hans Moravec, _Mind Children_ (Harvard: Harvard University Press, 1988)
 - Ed Regis, _Great Mambo Chicken and the Transhuman Condition_ (New York: Perseus, 1990)
-- Bertrand Russell, _[Icarus or The Future of Science](http://www.santafe.edu/%7Eshalizi/Icarus.html)_ (New York: E. P Dutton & Company, 1924)
+- Bertrand Russell, _[Icarus or The Future of Science](https://www.marxists.org/reference/subject/philosophy/works/en/russell2.htm)_ (New York: E. P Dutton & Company, 1924)
 - Frank J. Tipler, _The Physics of Immortality_ (New York: Doubleday, 1994)
-- [World Transhumanist Association](http://www.transhumanism.org/)
+- [World Transhumanist Association](https://transhumanism.org)
 
 ## What currents are there within transhumanism?
 
@@ -682,14 +682,14 @@ Transhumanism in arts and culture. Transhumanism as a source of inspiration in a
 
 **References**
 
-- Nick Bostrom, ["Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards"](http://www.nickbostrom.com/existential/risks.html), _Journal of Evolution and Technology_ Vol. 9 (2002)
-- Nick Bostrom, ["Are You Living In A Computer Simulation?"](http://www.simulation-argument.com/simulation.html), _Philosophical Quarterly_ Vol. 53, No. 211, 243–255 (2003)
-- Nick Bostrom, ["Human Genetic Enhancements: A Transhumanist Perspective"](http://www.nickbostrom.com/ethics/genetic.html), _Journal of Value Inquiry_ Vol. 37, No. 4, 493–506 (2003)
-- Robin Hanson, ["If Uploads Come First: The crack of a future dawn"](http://hanson.gmu.edu/uploads.html), _Extropy_ Vol. 6:2 (1994)
-- Robin Hanson, ["Burning the Cosmic Commons: Evolutionary Strategies for Interstellar Colonization"](http://hanson.gmu.edu/filluniv.pdf) (1998)
+- Nick Bostrom, ["Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards"](https://nickbostrom.com/existential/risks.html), _Journal of Evolution and Technology_ Vol. 9 (2002)
+- Nick Bostrom, ["Are You Living In A Computer Simulation?"](https://simulation-argument.com/simulation.html), _Philosophical Quarterly_ Vol. 53, No. 211, 243–255 (2003)
+- Nick Bostrom, ["Human Genetic Enhancements: A Transhumanist Perspective"](https://nickbostrom.com/ethics/genetic.html), _Journal of Value Inquiry_ Vol. 37, No. 4, 493–506 (2003)
+- Robin Hanson, ["If Uploads Come First: The crack of a future dawn"](https://mason.gmu.edu/~rhanson/uploads.html), _Extropy_ Vol. 6:2 (1994)
+- Robin Hanson, ["Burning the Cosmic Commons: Evolutionary Strategies for Interstellar Colonization"](https://mason.gmu.edu/~rhanson/filluniv.pdf) (1998)
 - James Hughes, ["Democratic Transhumanism"](http://changesurfer.com/Acad/DemocraticTranshumanism.htm), _Transhumanity_ (April 28, 2002)
-- David Pearce, [The Hedonistic Imperative](https://www.hedweb.com/hedethic/hedonist.htm) (2003)
-- Max More, ["The Extropian Principles, v. 3.0."](http://mrob.com/pub/religion/extro_prin.html) (1998)
+- David Pearce, [The Hedonistic Imperative](https://hedweb.com/hedethic/hedonist.htm) (2003)
+- Max More, ["The Extropian Principles, v. 3.0."](https://mrob.com/pub/religion/extro_prin.html) (1998)
 - Eliezer Yudkowsky, "What is the Singularity" (2003)
 
 ## How does transhumanism relate to religion?
@@ -728,8 +728,8 @@ If we narrow the definition by adding the requirement that a transhumanist telos
 
 **References**
 
-- Natasha Vita-More, [Primo 3M+](http://www.natasha.cc/primo.htm) (2002)
-- Natasha Vita-More, ["Transhumanist Arts Statement"](http://natasha.cc/transhumanistculture.htm) (2002)
+- Natasha Vita-More, Primo 3M+ (2002)
+- Natasha Vita-More, ["Transhumanist Arts Statement"](https://www.digitalmanifesto.net/manifestos/35) (2002)
 
 # Feedback
 
