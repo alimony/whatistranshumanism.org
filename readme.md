@@ -1,14 +1,13 @@
-# Transhumanism FAQ
+# Transhumanist FAQ
 
 [![Deploy to Netlify](https://img.shields.io/badge/deploy%20to-Netlify-000000.svg?style=flat&colorA=000000)](https://app.netlify.com/start/deploy?repository=https://github.com/iinfin/whatistranshumanism.org&stack=cms)
 [![Mozilla Observatory](https://img.shields.io/mozilla-observatory/grade-score/hbp.netlify.com.svg?style=flat&colorA=000000&colorB=000000)](https://observatory.mozilla.org/analyze/transhumanism.netlify.com)
-
 
 **Transhumanism** is a way of thinking about the future that is based on the premise that the human species in its current form does not represent the end of our development but rather a comparatively early phase.
 
 ## Development
 
-> Prerequisites: [Hugo](https://gohugo.io/getting-started/installing) and [Node.js](https://nodejs.org/en/download/current)
+> Requirements: [Hugo](https://gohugo.io/getting-started/installing) and [Node.js](https://nodejs.org/en/download/current)
 
 ```
 > git clone https://github.com/iinfin/whatistranshumanism.org.git
@@ -18,7 +17,7 @@
 
 ### Generating ebooks
 
-> Prerequisites: [Python](https://python.org/downloads) and [Pandoc](https://pandoc.org/installing.html)
+> Requirements: [Python](https://python.org/downloads) and [Pandoc](https://pandoc.org/installing.html)
 
 ## Deployment
 
