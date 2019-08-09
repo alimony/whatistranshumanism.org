@@ -1,12 +1,8 @@
 {
-	"author": {
-		"name": "iinfin",
-		"url": "https://iinf.in"
-	},
 	"bugs": {
 		"url": "https://github.com/iinfin/whatistranshumanism.org/issues"
 	},
-	"description": "⧜",
+	"description": "Transhumanism is based on the premise that the human species in its current form is not the end of our development but rather a comparatively early phase.",
 	"devDependencies": {
 		"css-declaration-sorter": "latest",
 		"gulp": "latest",
@@ -29,7 +25,7 @@
 	},
 	"homepage": "https://transhumanism.netlify.com",
 	"license": "Public Domain",
-	"name": "@iinfin/whatistranshumanism.org",
+	"name": "whatistranshumanism",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/iinfin/whatistranshumanism.org"
