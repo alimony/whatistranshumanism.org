@@ -17,6 +17,8 @@ watch: true
 params:
   username: u29dc
   license: https://creativecommons.org/publicdomain/zero/1.0
+  publisher: Humanity+
+
   links:
     github: https://github.com/iinfin/whatistranshumanism.org
 
