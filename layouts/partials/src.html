@@ -3,7 +3,7 @@
 <!-- https://github.com/u29dc/set -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/u29dc/set@0.1.1/dist/set.css" integrity="sha512-34xs11gqFfL3EeYc9CiaQt7u1ylA9QKPtS/XOT19n4VMK421VSdwgTlohN0U9Xl0lmbu2sqWB9XXeJrPyheM4Q==" crossorigin="anonymous">
 
-<script async src="https://cdn.jsdelivr.net/gh/u29dc/set@0.1.1/dist/set.js" integrity="sha512-29D4m6vofoMfwJS8Ex0AlFh1oGRRJMBNeXIdbo+32HHl+cKX0Tujt5zTy8NK+xX5P3CTFPBb3hyRj2N5V1ddeA==" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/gh/u29dc/set@0.1.1/dist/set.js" integrity="sha512-29D4m6vofoMfwJS8Ex0AlFh1oGRRJMBNeXIdbo+32HHl+cKX0Tujt5zTy8NK+xX5P3CTFPBb3hyRj2N5V1ddeA==" crossorigin="anonymous"></script>
 
 <!-- ########################################################################################### -->
 <!-- process epub -->
@@ -14,5 +14,5 @@
 {{ $css := resources.Get "main.scss" | resources.ToCSS (dict "targetPath" "main.css") }}
 <link rel="stylesheet" href="{{ $css.Permalink | relURL }}">
 
-{{ $js := resources.Get "main.js" }}
-<script async src="{{ $js.Permalink | relURL }}"></script>
+<!-- {{ $js := resources.Get "main.js" }}
+<script async src="{{ $js.Permalink | relURL }}"></script> -->
