@@ -2,12 +2,30 @@
 	{
 		"@context": "https://schema.org",
 		"@type": "Article",
-		"author": "Humanity+"
-		"about": "{{ .Site.Params.username }}",
+		"about": "{{ .Site.Language.Title }}",
+		"author": "{{ .Site.Params.publisher.name }}",
 		"datePublished": "1999",
 		"description": "{{ .Site.Language.Params.description }}",
-		"logo": "{{ .Site.BaseURL }}_0.png",
+		"headline": "{{ .Site.Language.Title }}",
+		"image": "{{ .Site.BaseURL }}_0.png",
+		"dateModified": "1999",
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "{{.Site.BaseURL }}"
+		},
 		"name": "{{ .Site.Language.Title }}",
+		"publisher": {
+			"@context": "https://schema.org",
+			"@type": "Organization",
+			"description": "Elevating the Human Condition",
+			"logo": "{{ .Site.BaseURL }}_0.png",
+			"name": "{{ .Site.Params.publisher.name }}",
+			"sameAs": [
+				"{{ .Site.Params.publisher.links.twitter }}",
+				"{{ .Site.Params.publisher.links.wikipedia }}"
+			],
+			"url": "{{ .Site.Params.publisher.links.website }}"
+		},
 		"sameAs": [
 			"{{ .Site.Params.links.github }}"
 		],

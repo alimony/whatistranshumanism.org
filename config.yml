@@ -15,9 +15,14 @@ verbose: false
 watch: true
 
 params:
-  username: u29dc
+  username: humanityplus
   license: https://creativecommons.org/publicdomain/zero/1.0
-  publisher: Humanity+
+  publisher: 
+    name: Humanity
+    links:
+      twitter: https://twitter.com/humanityplus
+      website: https://humanityplus.org
+      wikipedia: https://en.wikipedia.org/wiki/Humanity%2B
 
   links:
     github: https://github.com/iinfin/whatistranshumanism.org
