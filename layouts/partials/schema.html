@@ -18,7 +18,10 @@
 			"@context": "https://schema.org",
 			"@type": "Organization",
 			"description": "Elevating the Human Condition",
-			"logo": "{{ .Site.BaseURL }}_0.png",
+			"logo": {
+				"@type": "ImageObject",
+				"url": "{{ .Site.BaseURL }}_0.png"
+			},
 			"name": "{{ .Site.Params.publisher.name }}",
 			"sameAs": [
 				"{{ .Site.Params.publisher.links.twitter }}",
