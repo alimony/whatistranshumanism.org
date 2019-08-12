@@ -9,6 +9,24 @@
   HUGO_VERSION = "0.56.3"
   NODE_VERSION = "12.8.0"
 
+# build processing
+[build.processing]
+  skip_processing = false
+
+[build.processing.css]
+  bundle = false
+  minify = false
+
+[build.processing.js]
+  bundle = false
+  minify = false
+
+[build.processing.html]
+  pretty_urls = true
+
+[build.processing.images]
+  compress = false
+
 # set headers
 [[headers]]
   for = "/*"
