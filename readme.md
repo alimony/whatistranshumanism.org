@@ -17,9 +17,12 @@
 
 ### Generating ebooks
 
-> Requirements: [Python](https://python.org/downloads) and [Pandoc](https://pandoc.org/installing.html)
+> Requirements: [Python](https://python.org/downloads), [Pandoc](https://pandoc.org/installing.html), and [KindleGen](https://amazon.com/gp/feature.html?docId=1000765211)
 
-// TODO
+```
+> npm run build
+> python ebook.py "dist/index.html"
+```
 
 ## Deployment
 
