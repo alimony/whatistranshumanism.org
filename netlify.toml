@@ -1,10 +1,11 @@
 [Settings]
 
-# build settings
+# deploy settings
 [build]
   command = "npm run build"
   publish = "dist/"
 
+# build environment
 [build.environment]
   HUGO_VERSION = "0.56.3"
   NODE_VERSION = "12.8.0"
