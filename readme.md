@@ -29,6 +29,6 @@
 
 ```
 |--content
-|  |--index.html                   // Main article
-|  |--index.[lang-code].html       // Translations
+|  |--index.md                   // Main article
+|  |--index.[lang-code].md       // Translations
 ```
