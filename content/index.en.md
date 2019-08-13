@@ -56,9 +56,9 @@ A transhumanist is simply someone who advocates transhumanism (see ["What is tra
 
 The etymology of the term "transhuman" goes back to the futurist FM-2030 (also known as F. M. Estfandiary), who introduced it as shorthand for "transitional human". Calling transhumans the "earliest manifestation of new evolutionary beings," FM maintained that signs of transhumanity included prostheses, plastic surgery, intensive use of tele­communications, a cosmopolitan outlook and a globetrotting lifestyle, androgyny, mediated reproduction (such as in vitro fertilization), absence of religious beliefs, and a rejection of traditional family values. However, FM's diagnostics are of dubious validity. It is unclear why anybody who has had enhancement body parts or a nomadic lifestyle is any closer to becoming a posthuman than the rest of us; nor, of course, are such persons necessarily more admirable or morally commendable than others. In fact, it is perfectly possible to be a transhuman – or, for that matter, a transhumanist – and still embrace most traditional values and principles of personal conduct.
 
-**References**
-
+{{<ref>}}
 - FM-2030, _Are You a Transhuman?_ (New York: Warner Books, 1989)
+{{</ref>}}
 
 # Practicalities
 
@@ -72,9 +72,9 @@ Molecular manufacturing has the potential to transform the human condition. Is i
 
 There are many independent methods and technologies that can enable humans to become posthuman. There is uncertainty about which technologies will be perfected first, and we have a choice about which methods to use. But provided civilization continues to prosper, it seems almost inevitable that humans will sooner or later have the option of becoming posthuman persons. And, unless forcibly prevented, many will choose to explore that option.
 
-**References**
-
+{{<ref>}}
 - K. Eric Drexler, _Nanosystems: Molecular Machinery, Manufacturing, and Computation_, (New York: John Wiley & Sons, 1992)
+{{</ref>}}
 
 ## Won't these developments take thousands or millions of years?
 
@@ -100,10 +100,10 @@ A better strategy is to look directly at what a careful analysis of the underlyi
 
 Another way of forming a view of where we are headed is by looking at trends. At least since the late 19th century, science and technology, as measured by a wide range of indicators, have doubled about every 15 years (Price 1986). Extrapolating this exponential rate of progress, one is led to expect to see dramatic changes in the relatively near future. It would require an abrupt reversal of current trends, an unexpected deceleration, in order for the changes that many transhumanists foresee not to happen within the 21st century.
 
-**References**
-
+{{<ref>}}
 - The Foresight Institute, ["Erroneous Predictions and Negative Comments Concerning Scientific and Technological Developments"](https://foresight.org/news/negativeComments.html) (2002)
 - Derek J. de Solla Price, _Little Science, Big Science... and Beyond_ (New York: Columbia University Press, 1986)
+{{</ref>}}
 
 ## How can I use transhumanism in my own life?
 
@@ -152,10 +152,10 @@ Ed Regis (1990, p. 97) suggests the following points also be considered:
 
 Transhumanism is not about a fancier car, more money, or clever gadgetry, even though this is what the media presents to us as "science" and "advanced technology"; transhumanism is about genuine changes to the human condition, including increased intelligence and minds better suited to the achievement of happiness.
 
-**References**
-
+{{<ref>}}
 - David Pearce, [The Hedonistic Imperative](https://hedweb.com) (2003)
 - Ed Regis, _Great Mambo Chicken and the Transhuman Condition_ (New York: Penguin Books, 1990)
+{{</ref>}}
 
 ## How can I get involved and contribute?
 
@@ -167,9 +167,9 @@ If you want to study transhumanist ideas in more detail, you can find some sylla
 
 The coming technological transitions may be the most important challenge that humanity will ever face. The entire future of intelligent life on Earth may depend on how we handle it. If we do the right things, a wonderful posthuman future with limitless opportunities for growth and flourishing may lie ahead. If we handle it badly, intelligent life might go extinct. Don't you want to take part and attempt to make a difference for the better?
 
-**References**
-
+{{<ref>}}
 - [Humanity+](https://humanityplus.org) (From this site, links to local groups and affiliated organizations can also be found.)
+{{</ref>}}
 
 # Society and Politics
 
@@ -221,13 +221,13 @@ For a more extensive discussion of these and many other existential risks, see B
 
 Evaluating the total probability that some existential disaster will do us in before we get the opportunity to become posthuman can be done by various direct or indirect methods. Although any estimate inevitably includes a large subjective factor, it seems that to set the probability to less than 20% would be unduly optimistic, and the best estimate may be considerably higher. But depending on the actions we take, this figure can be raised or lowered.
 
-**References**
-
+{{<ref>}}
 - Nick Bostrom, ["Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards"](https://nickbostrom.com/existential/risks.html), _Journal of Evolution and Technology_ Vol. 9 (2002)
 - Center for Responsible Nanotechnology, ["Dangers of Molecular Manufacturing"](http://www.crnano.org/dangers.htm) (2003)
 - Foresight Institute, ["Foresight Guidelines on Molecular Nanotechnology, version 3.7"](https://foresight.org/guidelines/current.html) (2000)
 - Mark Avrum Gubrud, ["Nanotechnology and International Security"](https://foresight.org/Conferences/MNT05/Papers/Gubrud/index.html), Fifth Foresight Conference on Molecular Nanotechnology (1997)
 - Eckard Wimmer et al., "Chemical Synthesis of Poliovirus cDNA: Generation of Infectious Virus in the Absence of Natural Template", _Science_ Vol. 257, No. 5583, (2002), 1016–1018
+{{</ref>}}
 
 ## If these technologies are so dangerous, should they be banned?
 
@@ -251,12 +251,12 @@ Some of the lesser existential risks, such as an apocalyptic asteroid impact or 
 
 In light of how superabundant the human benefits of technology can ultimately be, it matters less that we obtain all of these benefits in their precisely most optimal form, and more that we obtain them at all. For many practical purposes, it makes sense to adopt the rule of thumb that we should act so as to maximize the probability of an acceptable outcome, one in which we attain some (reasonably broad) realization of our potential; or, to put it in negative terms, that we should act so as to minimize net existential risk.
 
-**References**
-
+{{<ref>}}
 - Nick Bostrom, ["Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards"](https://nickbostrom.com/existential/risks.html), _Journal of Evolution and Technology_ Vol. 9 (2002)
 - Bill Joy, ["Why the future doesn't need us."](https://wired.com/2000/04/joy-2/). _Wired_ 8:04 (2000)
 - John Leslie, _The End of the World: The Science and Ethics of Human Extinction_ (London: Routledge, 1996)
 - Martin Rees, _Our Final Hour: A Scientist's Warning_ (New York: Basic Books, 2003)
+{{</ref>}}
 
 ## Shouldn't we concentrate on current problems?
 
@@ -302,9 +302,9 @@ The more people there are, the more brains there will be working to invent new i
 
 If people can look forward to a longer healthy, active life, they will have a personal stake in the future and will hopefully be more concerned about the long-term consequences of their actions.
 
-**References**
-
+{{<ref>}}
 - United Nations, [The World Population Prospects: The 2002 Revision](https://population.un.org/wpp/Publications/Files/WPP2012_HIGHLIGHTS.pdf) (United Nations: New York, 2002)
+{{</ref>}}
 
 ## Is there any ethical standard...
 
@@ -322,9 +322,9 @@ The non-disposability of persons partially accounts for a certain sense of urgen
 
 Transhumanists reject speciesism, the (human racist) view that moral status is strongly tied to membership in a particular biological species, in our case homo sapiens. What exactly does determine moral status is a matter of debate. Factors such as being a person, being sentient, having the capacity for autonomous moral choice, or perhaps even being a member of the same community as the evaluator, are among the criteria that may combine to determine the degree of somebody's moral status (Warren 1997). But transhumanists argue that species-identity should be de-emphasized in this context. Transhumanists insist that all beings that can experience pain have some moral status, and that posthuman persons could have at least the same level of moral status as humans have in their current form.
 
-**References**
-
+{{<ref>}}
 - Mary Anne Warren, _Moral Status: Obligations to Persons and Other Living Things_ (Oxford: Oxford University Press, 1997)
+{{</ref>}}
 
 ## What kind of society would posthumans live in?
 
@@ -346,9 +346,9 @@ To note that the extreme case of a war between human and posthuman persons is no
 
 What about the hypothetical case in which someone intends to create, or turn themselves into, a being of so radically enhanced capacities that a single one or a small group of such individuals would be capable of taking over the planet? This is clearly not a situation that is likely to arise in the imminent future, but one can imagine that, perhaps in a few decades, the prospective creation of superintelligent machines could raise this kind of concern. The would-be creator of a new life form with such surpassing capabilities would have an obligation to ensure that the proposed being is free from psychopathic tendencies and, more generally, that it has humane inclinations. For example, a super­intelligence should be built with a clear goal structure that has friendliness to humans as its top goal. Before running such a program, the builders of a super­intelligence should be required to make a strong case that launching it would be safer than alternative courses of action.
 
-**References**
-
+{{<ref>}}
 - Eliezer Yudkowsky, [Creating Friendly AI 1.0: The Analysis and Design of Benevolent Goal Architectures](https://intelligence.org/files/CFAI.pdf) (2001)
+{{</ref>}}
 
 # Technologies and Projections
 
@@ -410,12 +410,12 @@ While it seems fairly well established that molecular nanotechnology is in princ
 
 Because the ramifications of nanotechnology are immense, it is imperative that serious thought be given to this topic now. If nanotechnology were to be abused the consequences could be devastating. Society needs to prepare for the assembler breakthrough and do advance planning to minimize the risks associated with it (see e.g. ["Aren't these future technologies very risky? Could they even cause our extinction?"](#arent-these-future-technologies-very-risky-could-they-even-cause-our-extinction)). Several organizations are working to preparing the world for nanotechnology, the oldest and largest being the Foresight Institute.
 
-**References**
-
+{{<ref>}}
 - K. Eric Drexler, _[Engines of Creation: The Coming Era of Nanotechnology](https://www.nanowerk.com/nanotechnology/reports/reportpdf/report47.pdf)_, (New York: Anchor Books, 1986)
 - K. Eric Drexler, _Nanosystems: Molecular Machinery, Manufacturing, and Computation_, (New York: John Wiley & Sons, Inc., 1992)
 - Robert A. Freitas Jr., _[Nanomedicine, Volume I: Basic Capabilities.](https://amzn.com/157059645X)_ (Georgetown, Texas: Landes Bioscience, 1999)
 - [Foresight Institute](https://foresight.org)
+{{</ref>}}
 
 ## What is super­intelligence?
 
@@ -443,10 +443,10 @@ The prospect of super­intelligence raises many big issues and concerns that we 
 
 Many transhumanists would like to become superintelligent themselves. This is obviously a long-term and uncertain goal, but it might be achievable either through uploading and subsequent enhancement or through the gradual augmentation of our biological brains, by means of future nootropics (cognitive enhancement drugs), cognitive techniques, IT tools (e.g. wearable computers, smart agents, information filtering systems, visualization software, etc.), neural-computer interfaces, or brain implants.
 
-**References**
-
+{{<ref>}}
 - Hans Moravec, _Mind Children_ (Harvard: Harvard University Press, 1989)
 - Nick Bostrom, ["How Long Before Super­intelligence?"](https://nickbostrom.com/superintelligence.html), _International Journal of Futures Studies_ Vol. 2. (1998)
+{{</ref>}}
 
 ## What is virtual reality?
 
@@ -478,9 +478,9 @@ When we consider the procedures that are routine today and how they might have b
 
 By no means are all transhumanists signed up for cryonics, but a significant fraction finds that, for them, a cost-benefit analysis justifies the expense. Becoming a cryonicist, however, requires courage: the courage to confront the possibility of your own death, and the courage to resist the peer-pressure from the large portion of the population which currently espouses deathist values and advocates complacency in the face of a continual, massive loss of human life.
 
-**References**
-
+{{<ref>}}
 - Ralph C. Merkle, ["The Molecular Repair of the Brain"](https://merkle.com/cryo/techFeas.html), _Cryonics Magazine_ Vol. 15, No's 1 & 2. (1994)
+{{</ref>}}
 
 ## What is uploading?
 
@@ -528,11 +528,11 @@ The singularity-hypothesis is sometimes paired with the claim that it is impossi
 
 Transhumanists differ widely in the probability they assign to Vinge's scenario. Almost all of those who do think that there will be a singularity believe it will happen in this century, and many think it is likely to happen within several decades.
 
-**References**
-
+{{<ref>}}
 - I. J. Good, "Speculations Concerning the First Ultraintelligent Machine", in _Advances in Computers_ Vol. 6, ed. Franz L. Alt and Morris Rubinoff (Academic Press, 1965), 31–88
 - Vernor Vinge, ["The Coming Technological Singularity"](https://edoras.sdsu.edu/~vinge/misc/singularity.html), _Whole Earth Review_ Winter Issue (1993)
 - Stanislaw Ulam, "Tribute to John von Neumann", _Bulletin of the American Mathematical Society_ Vol. 64, Nr. 3, Part II, 1-49 (1958)
+{{</ref>}}
 
 # Transhumanism and Nature
 
@@ -548,9 +548,9 @@ When transhumanists seek to extend human life, they are not trying to add a coup
 
 "The conduct of life and the wisdom of the heart are based upon time; in the last quartets of Beethoven, the last words and works of ‘old men' like Sophocles and Russell and Shaw, we see glimpses of a maturity and substance, an experience and understanding, a grace and a humanity, that isn't present in children or in teenagers. They attained it because they lived long; because they had time to experience and develop and reflect; time that we might all have. Imagine such individuals – a Benjamin Franklin, a Lincoln, a Newton, a Shakespeare, a Goethe, an Einstein [and a Gandhi] – enriching our world not for a few decades but for centuries. Imagine a world made of such individuals. It would truly be what Arthur C. Clarke called ‘Childhood's End' – the beginning of the adulthood of humanity." (Cryonics Institute)
 
-**References**
-
+{{<ref>}}
 - [Cryonics Institute](https://cryonics.org)
+{{</ref>}}
 
 ## Isn't this tampering with nature?
 
@@ -640,8 +640,7 @@ Humanity+ developed after to rebrand transhumanism informing **Humanity+** as a 
 
 In the past couple of years, the transhumanist movement has been growing fast and furiously. Local groups are mushrooming in all parts of the world. Awareness of transhumanist ideas is spreading. Transhumanism is undergoing the transition from being the preoccupation of a fringe group of intellectual pioneers to becoming a mainstream approach to understanding the prospects for technological transformation of the human condition. That technological advances will help us overcome many of our current human limitations is no longer an insight confined to a few handfuls of techno-savvy visionaries. Yet understanding the consequences of these anticipated possibilities and the ethical choices we will face is a momentous challenge that humanity will be grappling with over the coming decades. The transhumanist tradition has produced a (still evolving) body of thinking to illuminate these complex issues that is unparalleled in its scope and depth of foresight.
 
-**References**
-
+{{<ref>}}
 - Francis Bacon, _[Novum Organum](https://earlymoderntexts.com/assets/pdfs/bacon1620.pdf)_ (New York: Colonial Press, 1899 \[1620\])
 - John Desmond Bernal, _[The World, the Flesh & the Devil: An Enquiry into the Future of the Three Enemies of the Rational Soul](https://amzn.com/1786630923)_ (Bloomington: Indiana University Press, 1969 \[1929\])
 - K. Eric Drexler, _[Engines of Creation: The Coming Era of Nanotechnology](https://www.nanowerk.com/nanotechnology/reports/reportpdf/report47.pdf)_ (New York: Anchor Books, 1986)
@@ -661,6 +660,7 @@ In the past couple of years, the transhumanist movement has been growing fast an
 - Bertrand Russell, _[Icarus or The Future of Science](https://www.marxists.org/reference/subject/philosophy/works/en/russell2.htm)_ (New York: E. P Dutton & Company, 1924)
 - Frank J. Tipler, _The Physics of Immortality_ (New York: Doubleday, 1994)
 - [World Transhumanist Association](https://transhumanism.org)
+{{</ref>}}
 
 ## What currents are there within transhumanism?
 
@@ -682,8 +682,7 @@ Salon transhumanism. Transhumanism as a network of people who share certain inte
 
 Transhumanism in arts and culture. Transhumanism as a source of inspiration in artistic creation and cultural activities, including efforts to communicate transhumanist ideas and values to a wider audience (see also ["What kind of transhumanist art is there?"](#what-kind-of-transhumanist-art-is-there).
 
-**References**
-
+{{<ref>}}
 - Nick Bostrom, ["Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards"](https://nickbostrom.com/existential/risks.html), _Journal of Evolution and Technology_ Vol. 9 (2002)
 - Nick Bostrom, ["Are You Living In A Computer Simulation?"](https://simulation-argument.com/simulation.html), _Philosophical Quarterly_ Vol. 53, No. 211, 243–255 (2003)
 - Nick Bostrom, ["Human Genetic Enhancements: A Transhumanist Perspective"](https://nickbostrom.com/ethics/genetic.html), _Journal of Value Inquiry_ Vol. 37, No. 4, 493–506 (2003)
@@ -693,6 +692,7 @@ Transhumanism in arts and culture. Transhumanism as a source of inspiration in a
 - David Pearce, [The Hedonistic Imperative](https://hedweb.com/hedethic/hedonist.htm) (2003)
 - Max More, ["The Extropian Principles, v. 3.0."](https://mrob.com/pub/religion/extro_prin.html) (1998)
 - Eliezer Yudkowsky, "What is the Singularity" (2003)
+{{</ref>}}
 
 ## How does transhumanism relate to religion?
 
@@ -714,11 +714,11 @@ If we answer this question from a religious standpoint, there is no clear ground
 
 While the concept of a soul is not used much in a naturalistic philosophy such as transhumanism, many transhumanists do take an interest in the related problems concerning personal identity (Parfit 1984) and consciousness (Churchland 1988). These problems are being intensely studied by contemporary analytic philosophers, and although some progress has been made, e.g. in Derek Parfit's work on personal identity, they have still not been resolved to general satisfaction.
 
-**References**
-
+{{<ref>}}
 - Paul M. Churchland, _Matter and Consciousness_ (Cambridge, MA: MIT Press, 1988)
 - Jeremy W. Hayward et al., _Gentle Bridges: Conversations with the Dalai Lama on the Sciences of Mind_ (Boston: Shambala Publications, 1992)
 - Derek Parfit, _Reasons and Persons_ (Oxford: Oxford University Press, 1984)
+{{</ref>}}
 
 ## What kind of transhumanist art is there?
 
@@ -728,10 +728,10 @@ The concept of transhumanist art would be to say that it is multi-media arts cre
 
 If we narrow the definition by adding the requirement that a transhumanist telos be coupled to a notion of the centrality of technological means, we get a different set of paradigmatic examples. The Frankenstein myth (based originally on the novel by Mary Shelley published in 1831, and elaborated in countless forms since then) is one classic, and in general science fiction has been the genre most intensely preoccupied with transhumanist themes, reaching back to Jules Verne and Karel Čapek, through Isaac Asimov, Robert A. Heinlein, Stanislav Lem, Arthur C. Clark, on to Vernor Vinge, Bruce Sterling, James Halperin, Greg Egan, and many others in the field of science fiction. Many of these author's stories have been adapted for the screen. (The Star Trek series features cool new technology but the same old humans, so it is not a very paradigmatic exemplar of transhumanist art.) Yet this in and of itself is a narrowing of the board and explorative scope of transhumanist arts. For example, Buckminster Fuller's architectural understanding of the world and society, the "maker", "quantified self", and "DIY" cultures all reflect initiatives of transhumanist art because the key is to solve problems through creative endeavors. In this regard, the field of design is consequential, and equal to, if not more than, science fiction.
 
-**References**
-
+{{<ref>}}
 - Natasha Vita-More, Primo 3M+ (2002)
 - Natasha Vita-More, ["Transhumanist Arts Statement"](https://www.digitalmanifesto.net/manifestos/35) (2002)
+{{</ref>}}
 
 # Feedback
 
