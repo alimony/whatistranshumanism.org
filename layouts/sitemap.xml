@@ -9,9 +9,8 @@
 		{{ range .Translations }}
 		<xhtml:link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
 		{{ end }}
-
-		<xhtml:link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
 		{{ end }}
+
 	</url>
 	{{ end }}
 </urlset>
