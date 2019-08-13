@@ -11,6 +11,4 @@ function links() {
 	})
 };
 
-window.onload = function () {
-	links()
-};
+links();
