@@ -27,6 +27,6 @@
 
 ## Translation
 
-- Add [`index.[lang-code].md`](https://www.w3schools.com/tags/ref_language_codes.asp)
+- Add [`index.[lang-code].md`](https://www.w3schools.com/tags/ref_language_codes.asp) to [content/](content/)
 - Add language to [`config.yml`](config.yml)
-- Add `lang-code.toml` to [`i18n`](i18n)
+- Add `lang-code.toml` to [`i18n/`](i18n/)
