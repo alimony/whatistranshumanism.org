@@ -19,10 +19,7 @@
 
 > Requirements: [Python](https://python.org/downloads), [Pandoc](https://pandoc.org/installing.html), and [KindleGen](https://amazon.com/gp/feature.html?docId=1000765211)
 
-```
-> npm run build
-> python ebook.py "dist/index.html"
-```
+// TODO
 
 ## Deployment
 
