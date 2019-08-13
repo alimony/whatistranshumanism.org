@@ -10,5 +10,5 @@
 {{ $css := resources.Get "main.scss" | resources.ToCSS (dict "targetPath" "main.css") }}
 <link rel="stylesheet" href="{{ $css.Permalink | relURL }}">
 
-<!-- {{ $js := resources.Get "main.js" }}
-<script async src="{{ $js.Permalink | relURL }}"></script> -->
+{{ $js := resources.Get "main.js" }}
+<script async src="{{ $js.Permalink | relURL }}"></script>
