@@ -4,14 +4,14 @@
 		"@type": "Article",
 		"about": "{{ .Title }}",
 		"author": "{{ .Site.Params.publisher.name }}",
+		"dateModified": "1999",
 		"datePublished": "1999",
 		"description": "{{ .Description }}",
-		"headline": "{{ .Site.Language.Title }}",
+		"headline": "{{ .Title }}",
 		"image": "{{ .Site.BaseURL }}_0.png",
-		"dateModified": "1999",
 		"mainEntityOfPage": {
-			"@type": "WebPage",
-			"@id": "{{.Site.BaseURL }}"
+			"@id": "{{.Site.BaseURL }}",
+			"@type": "WebPage"
 		},
 		"name": "{{ .Title }}",
 		"publisher": {
