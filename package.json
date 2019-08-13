@@ -17,7 +17,6 @@
 		"gulp-minify-inline": "latest",
 		"gulp-minify-inline-json": "latest",
 		"gulp-postcss": "latest",
-		"gulp-real-favicon": "latest",
 		"gulp-shell": "latest",
 		"gulp-sri-hash": "latest",
 		"gulp-svgo": "latest",

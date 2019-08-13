@@ -15,7 +15,6 @@ const
 	inlinesource = require("gulp-inline-source"),
 	minifyInline = require("gulp-minify-inline"),
 	minifyInlineJSON = require("gulp-minify-inline-json"),
-	realFavicon = require("gulp-real-favicon"),
 	shell = require("gulp-shell"),
 	sriHash = require("gulp-sri-hash"),
 	svgo = require("gulp-svgo"),
@@ -60,9 +59,7 @@ const
 	},
 
 	imgInput = "./dist/**/*",
-	imgOutput = "./dist",
-
-	faviconDataFile = "tmp/faviconData.json";
+	imgOutput = "./dist";
 
 // #################################################################################################
 gulp.task("hugo", shell.task(
@@ -125,91 +122,7 @@ gulp.task("img", function () {
 });
 
 // #################################################################################################
-gulp.task("fav-generate", function (done) {
-	realFavicon.generateFavicon({
-		design: {
-			androidChrome: {
-				assets: {
-					legacyIcon: true,
-					lowResolutionIcons: true,
-				},
-				manifest: {
-					declared: true,
-					display: "standalone",
-					name: "Example",
-					onConflict: "override",
-					orientation: "notSet",
-					startUrl: "https://transhumanism.netlify.com",
-				},
-				pictureAspect: "noChange",
-				themeColor: "#000000"
-			},
-			desktopBrowser: {},
-			ios: {
-				appName: "Example",
-				assets: {
-					declareOnlyDefaultIcon: false,
-					ios6AndPriorIcons: false,
-					ios7AndLaterIcons: false,
-					precomposedIcons: true
-				},
-				backgroundColor: "#000000",
-				margin: "0%",
-				pictureAspect: "backgroundAndMargin",
-			},
-			pictureAspect: "noChange",
-			safariPinnedTab: {
-				pictureAspect: "silhouette",
-				themeColor: "#000000"
-			},
-			themeColor: "#000000",
-			windows: {
-				appName: "Example",
-				assets: {
-					windows10Ie11EdgeTiles: {
-						big: true,
-						medium: true,
-						rectangle: true,
-						small: true
-					},
-					windows80Ie10Tile: true
-				},
-				backgroundColor: "#000000",
-				onConflict: "override",
-				pictureAspect: "noChange",
-			},
-		},
-		dest: "./tmp/fav",
-		iconsPath: "/",
-		markupFile: faviconDataFile,
-		masterPicture: "./static/_0.png",
-		settings: {
-			compression: 5,
-			errorOnImageTooSmall: false,
-			htmlCodeFile: false,
-			readmeFile: false,
-			scalingAlgorithm: "Mitchell",
-			usePathAsIs: false,
-		},
-	}, function () {
-		done();
-	});
-});
 
-gulp.task("fav-move", function () {
-	return gulp
-		.src("./tmp/fav/**/*")
-		.pipe(gulp.dest("./static", {
-			overwrite: false
-		}));
-});
-
-gulp.task("fav", gulp.series(
-	"fav-generate",
-	"fav-move"
-));
-
-// #################################################################################################
 gulp.task("default", gulp.series(
 	"hugo",
 	"css",
