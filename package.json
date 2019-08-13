@@ -23,7 +23,7 @@
 		"gulp-uglify-es": "latest"
 	},
 	"homepage": "https://transhumanism.netlify.com",
-	"license": "Public Domain",
+	"license": "MIT",
 	"name": "whatistranshumanism",
 	"repository": {
 		"type": "git",

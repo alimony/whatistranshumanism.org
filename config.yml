@@ -1,7 +1,7 @@
 baseURL: https://transhumanism.netlify.com/
 canonifyURLs: false
 cleanDestinationDir: true
-copyright: Public Domain
+copyright: MIT
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 disableKinds:
@@ -23,7 +23,7 @@ languages:
 
 params:
   username: humanityplus
-  license: https://creativecommons.org/publicdomain/zero/1.0
+  license: https://unlicense.org
   publisher: 
     name: Humanity Plus
     links:
