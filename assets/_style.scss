@@ -22,3 +22,13 @@ p,
 li {
 	color: var(--c070);
 }
+
+.references {
+	border-radius: 1rem;
+	border: 0.1rem solid var(--c050);
+	padding: 0 2rem;
+}
+
+.references ul {
+	list-style: circle inside;
+}
