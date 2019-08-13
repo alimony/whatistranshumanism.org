@@ -15,11 +15,17 @@ relativeURLs: true
 verbose: false
 watch: true
 
+languages:
+  en:
+    languageLang: en
+    languageName: English
+    weight: 0
+
 params:
   username: humanityplus
   license: https://creativecommons.org/publicdomain/zero/1.0
   publisher: 
-    name: Humanity
+    name: Humanity Plus
     links:
       twitter: https://twitter.com/humanityplus
       website: https://humanityplus.org
@@ -27,9 +33,3 @@ params:
 
   links:
     github: https://github.com/iinfin/whatistranshumanism.org
-
-languages:
-  en:
-    languageLang: en
-    languageName: English
-    weight: 0
