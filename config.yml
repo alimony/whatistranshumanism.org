@@ -3,6 +3,7 @@ canonifyURLs: false
 cleanDestinationDir: true
 copyright: Public Domain
 defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
 disableKinds:
   - RSS
   - taxonomy
@@ -32,7 +33,5 @@ languages:
     languageCode: en-us
     languageLang: en
     languageName: English
-    title: What is Transhumanism?
     weight: 0
     params:
-      description: Transhumanism is based on the premise that the human species in its current form is not the end of our development but rather a comparatively early phase.

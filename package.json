@@ -31,7 +31,7 @@
 	},
 	"scripts": {
 		"build": "gulp",
-		"dev": "hugo server --port 1111",
+		"dev": "hugo server --port 1111 --disableFastRender",
 		"ebook": "python ebook.py"
 	},
 	"version": "0.0.1"

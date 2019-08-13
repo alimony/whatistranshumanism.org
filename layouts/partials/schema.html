@@ -2,10 +2,10 @@
 	{
 		"@context": "https://schema.org",
 		"@type": "Article",
-		"about": "{{ .Site.Language.Title }}",
+		"about": "{{ .Title }}",
 		"author": "{{ .Site.Params.publisher.name }}",
 		"datePublished": "1999",
-		"description": "{{ .Site.Language.Params.description }}",
+		"description": "{{ .Description }}",
 		"headline": "{{ .Site.Language.Title }}",
 		"image": "{{ .Site.BaseURL }}_0.png",
 		"dateModified": "1999",
@@ -13,7 +13,7 @@
 			"@type": "WebPage",
 			"@id": "{{.Site.BaseURL }}"
 		},
-		"name": "{{ .Site.Language.Title }}",
+		"name": "{{ .Title }}",
 		"publisher": {
 			"@context": "https://schema.org",
 			"@type": "Organization",
