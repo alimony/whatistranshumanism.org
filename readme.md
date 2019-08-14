@@ -11,9 +11,9 @@
 > Requirements: [Hugo](https://gohugo.io/getting-started/installing) and [Node.js](https://nodejs.org/en/download/current)
 
 ```
-> git clone https://github.com/iinfin/whatistranshumanism.org.git
-> npm install
-> npm run dev
+git clone https://github.com/iinfin/whatistranshumanism.org.git
+npm install
+npm run dev
 ```
 
 ### Generating ebooks
