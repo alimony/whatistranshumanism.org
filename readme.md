@@ -1,6 +1,6 @@
 # Transhumanist FAQ
 
-[![License](https://img.shields.io/github/license/iinfin/whatistranshumanism.org?style=flat&colorA=000000&colorB=000000)](https://unlicense.org)
+[![License](https://img.shields.io/github/license/iinfin/whatistranshumanism.org?style=flat&colorA=000000&colorB=000000)](https://opensource.org/licenses/MIT)
 [![Deploy to Netlify](https://img.shields.io/badge/deploy%20to-Netlify-000000.svg?style=flat&colorA=000000)](https://app.netlify.com/start/deploy?repository=https://github.com/iinfin/whatistranshumanism.org&stack=cms)
 [![Mozilla Observatory](https://img.shields.io/mozilla-observatory/grade-score/transhumanism.netlify.com.svg?style=flat&colorA=000000&colorB=000000)](https://observatory.mozilla.org/analyze/transhumanism.netlify.com)
 

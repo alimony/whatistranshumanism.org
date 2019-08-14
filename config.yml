@@ -23,7 +23,7 @@ languages:
 
 params:
   username: humanityplus
-  license: https://unlicense.org
+  license: https://opensource.org/licenses/MIT
   publisher: 
     name: Humanity Plus
     links:

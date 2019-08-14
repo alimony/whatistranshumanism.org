@@ -22,6 +22,9 @@
 		"gulp-svgo": "latest",
 		"gulp-uglify-es": "latest"
 	},
+	"engines": {
+		"node": "latest"
+	},
 	"homepage": "https://transhumanism.netlify.com",
 	"license": "MIT",
 	"name": "whatistranshumanism",
