@@ -1,6 +1,6 @@
 {
 	"bugs": {
-		"url": "https://github.com/iinfin/whatistranshumanism.org/issues"
+		"url": "https://github.com/alimony/whatistranshumanism.org/issues"
 	},
 	"description": "Transhumanism is based on the premise that the human species in its current form is not the end of our development but rather a comparatively early phase.",
 	"devDependencies": {
@@ -30,7 +30,7 @@
 	"name": "whatistranshumanism",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/iinfin/whatistranshumanism.org"
+		"url": "https://github.com/alimony/whatistranshumanism.org"
 	},
 	"scripts": {
 		"build": "gulp",
