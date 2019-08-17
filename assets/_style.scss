@@ -33,3 +33,23 @@ li {
 .references ul {
 	list-style: circle inside;
 }
+
+.share {
+	border-top: 0.2rem solid var(--c050);
+	display: block;
+	margin: 5rem 0 0 0;
+	padding: 1rem 0;
+}
+
+.share a {
+	display: inline-block;
+	height: 2rem;
+	margin: 0.5rem;
+	text-decoration: none;
+	width: 2rem;
+}
+
+.share a svg {
+	height: 2rem;
+	width: 2rem;
+}
