@@ -7,8 +7,8 @@
 
 # build environment
 [build.environment]
-  HUGO_VERSION = "0.56.3"
-  NODE_VERSION = "12.8.0"
+  HUGO_VERSION = "0.57.1"
+  NODE_VERSION = "12.8.1"
 
 # build processing
 [build.processing]
@@ -48,7 +48,29 @@
         upgrade-insecure-requests;
     """
     Expect-CT = "max-age=86400; report-uri='https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct'"
-    Feature-Policy = "fullscreen 'self'"
+    Feature-Policy = """
+        accelerometer 'self';
+        ambient-light-sensor 'self';
+        autoplay 'self';
+        camera 'self';
+        display-capture 'self';
+        document-domain 'self';
+        encrypted-media 'self';
+        fullscreen 'self';
+        geolocation 'self';
+        gyroscope 'self';
+        magnetometer 'self';
+        microphone 'self';
+        midi 'self';
+        payment 'self';
+        picture-in-picture 'self';
+        speaker 'self';
+        sync-xhr 'self';
+        usb 'self';
+        vr / xr 'self';
+        wake-lock 'self';
+        webauthn 'self';
+    """
     Referrer-Policy = "strict-origin"
     Set-Cookie = "HttpOnly; SameSite; Secure;"
     Strict-Transport-Security = "max-age=31557600; includesubdomains; preload"
