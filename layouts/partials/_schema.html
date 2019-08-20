@@ -24,13 +24,16 @@
 			},
 			"name": "{{ .Site.Params.publisher.name }}",
 			"sameAs": [
-				"{{ .Site.Params.publisher.links.twitter }}",
-				"{{ .Site.Params.publisher.links.wikipedia }}"
+				{{ range $k, $v := sort .Site.Params.publisher.links }}
+					{{ if eq $k 0 }}"{{ $v }}"{{ else }}, "{{ $v }}"{{ end }}
+				{{ end }}
 			],
 			"url": "{{ .Site.Params.publisher.links.website }}"
 		},
 		"sameAs": [
-			"{{ .Site.Params.links.github }}"
+			{{ range $k, $v := sort .Site.Params.links }}
+				{{ if eq $k 0 }}"{{ $v }}"{{ else }}, "{{ $v }}"{{ end }}
+			{{ end }}
 		],
 		"url": "{{ .Site.BaseURL }}"
 	}

@@ -48,6 +48,9 @@
 <meta property="og:image:height" content="1000">
 <meta property="og:image:width" content="2000">
 <meta property="og:image" content="{{ .Site.BaseURL }}000.png">
+{{ range $k, $v := sort .Site.Params.links }}
+<meta property="og:see_also" content="{{ $v }}">
+{{ end }}
 <meta property="og:site_name" content="{{ .Title }}">
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:type" content="website">
