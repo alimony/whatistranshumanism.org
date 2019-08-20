@@ -1,7 +1,7 @@
 ---
 description: "Transhumanism is based on the premise that the human species in its current form is not the end of our development but rather a comparatively early phase."
 draft: false
-layout: "home"
+layout: "default"
 title: "What is Transhumanism?"
 ---
 
