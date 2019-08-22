@@ -53,7 +53,6 @@
         ambient-light-sensor 'self';
         autoplay 'self';
         camera 'self';
-        display-capture 'self';
         document-domain 'self';
         encrypted-media 'self';
         fullscreen 'self';
@@ -68,8 +67,6 @@
         sync-xhr 'self';
         usb 'self';
         vr / xr 'self';
-        wake-lock 'self';
-        webauthn 'self';
     """
     Referrer-Policy = "strict-origin"
     Set-Cookie = "HttpOnly; SameSite; Secure;"
