@@ -7,8 +7,8 @@
 
 # build environment
 [build.environment]
-  HUGO_VERSION = "0.57.1"
-  NODE_VERSION = "12.8.1"
+  HUGO_VERSION = "0.59.0"
+  NODE_VERSION = "13.0.1"
 
 # build processing
 [build.processing]
