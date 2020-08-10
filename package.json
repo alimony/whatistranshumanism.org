@@ -1,0 +1,41 @@
+{
+	"bugs": {
+		"url": "https://github.com/alimony/whatistranshumanism.org/issues"
+	},
+	"description": "Transhumanism is based on the premise that the human species in its current form is not the end of our development but rather a comparatively early phase.",
+	"devDependencies": {
+		"css-declaration-sorter": "latest",
+		"gulp": "latest",
+		"gulp-autoprefixer": "latest",
+		"gulp-clean-css": "latest",
+		"gulp-cssimport": "latest",
+		"gulp-csso": "latest",
+		"gulp-htmlmin": "latest",
+		"gulp-imagemin": "latest",
+		"gulp-inline-source": "latest",
+		"gulp-jsbeautifier": "latest",
+		"gulp-minify-inline": "latest",
+		"gulp-minify-inline-json": "latest",
+		"gulp-postcss": "latest",
+		"gulp-shell": "latest",
+		"gulp-sri-hash": "latest",
+		"gulp-svgo": "latest",
+		"gulp-uglify-es": "latest"
+	},
+	"engines": {
+		"node": "latest"
+	},
+	"homepage": "https://transhumanism.netlify.com",
+	"license": "MIT",
+	"name": "whatistranshumanism",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alimony/whatistranshumanism.org"
+	},
+	"scripts": {
+		"build": "gulp",
+		"dev": "hugo server --port 1111 --disableFastRender",
+		"ebook": "python ebook.py"
+	},
+	"version": "0.0.1"
+}

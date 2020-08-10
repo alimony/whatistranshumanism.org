@@ -1,0 +1,35 @@
+baseURL: https://transhumanism.netlify.com/
+canonifyURLs: false
+cleanDestinationDir: true
+copyright: MIT
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
+metaDataFormat: yaml
+noTimes: true
+publishDir: dist
+relativeURLs: true
+verbose: false
+watch: true
+
+languages:
+  en:
+    languageLang: en
+    languageName: English
+    weight: 0
+
+params:
+  username: humanityplus
+  license: https://opensource.org/licenses/MIT
+  publisher: 
+    name: Humanity Plus
+    links:
+      twitter: https://twitter.com/humanityplus
+      website: https://humanityplus.org
+      wikipedia: https://en.wikipedia.org/wiki/Humanity%2B
+
+  links:
+    github: https://github.com/alimony/whatistranshumanism.org

@@ -1,2 +1,7 @@
-_site/
-what-is-transhumanism-epub
+.vscode
+dist
+node_modules
+package-lock.json
+public
+resources
+tmp

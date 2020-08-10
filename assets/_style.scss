@@ -1,0 +1,61 @@
+body {
+	font-size: 1.5rem;
+	line-height: 1.5;
+	-webkit-transition: background-color 0s ease;
+	transition: background-color 0s ease
+}
+
+h1 {
+	font-size: 3rem;
+}
+
+blockquote {
+	border-left: 0.5rem solid var(--c050);
+	padding: 0 0 0 2.5rem;
+}
+
+a {
+	text-decoration: underline;
+}
+
+p,
+li {
+	color: var(--c070);
+}
+
+.references {
+	border-radius: 1rem;
+	border: 0.1rem solid var(--c050);
+	opacity: 0.5;
+	padding: 0 2rem;
+}
+
+.references ul {
+	list-style: circle inside;
+}
+
+.share {
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	border-top: 0.2rem solid var(--c050);
+	display: block;
+	margin: 5rem 0 0 0;
+	padding: 1rem 0;
+	user-select: none;
+}
+
+.share a {
+	display: inline-block;
+	height: 2rem;
+	margin: 0.5rem;
+	text-decoration: none;
+	width: 2rem;
+}
+
+.share a svg {
+	height: 2rem;
+	width: 2rem;
+}

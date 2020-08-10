@@ -1,0 +1,40 @@
+<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "Article",
+		"about": "{{ .Title }}",
+		"author": "{{ .Site.Params.publisher.name }}",
+		"dateModified": "1999",
+		"datePublished": "1999",
+		"description": "{{ .Description }}",
+		"headline": "{{ .Title }}",
+		"image": "{{ .Site.BaseURL }}_0.png",
+		"mainEntityOfPage": {
+			"@id": "{{.Site.BaseURL }}",
+			"@type": "WebPage"
+		},
+		"name": "{{ .Title }}",
+		"publisher": {
+			"@context": "https://schema.org",
+			"@type": "Organization",
+			"description": "Elevating the Human Condition",
+			"logo": {
+				"@type": "ImageObject",
+				"url": "{{ .Site.BaseURL }}_0.png"
+			},
+			"name": "{{ .Site.Params.publisher.name }}",
+			"sameAs": [
+				{{ range $k, $v := sort .Site.Params.publisher.links }}
+					{{ if eq $k 0 }}"{{ $v }}"{{ else }}, "{{ $v }}"{{ end }}
+				{{ end }}
+			],
+			"url": "{{ .Site.Params.publisher.links.website }}"
+		},
+		"sameAs": [
+			{{ range $k, $v := sort .Site.Params.links }}
+				{{ if eq $k 0 }}"{{ $v }}"{{ else }}, "{{ $v }}"{{ end }}
+			{{ end }}
+		],
+		"url": "{{ .Site.BaseURL }}"
+	}
+</script>
