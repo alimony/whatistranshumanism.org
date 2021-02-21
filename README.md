@@ -4,7 +4,7 @@ What is Transhumanism?
 
 This is the source repository for [whatistranshumanism.org](https://whatistranshumanism.org/)
 
-There is only the `gh-pages` branch, which when pushed to will build the live site.
+The main branch is `master` and the GitHub Pages branch is `gh-pages` branch, which when pushed to will build the live site.
 
 This is a redesigned version of the [Transhumanist FAQ](http://humanityplus.org/philosophy/transhumanist-faq/). The website was created by Markus Amalthea Magnuson of [The Sci-Fi Agenda](https://scifiagenda.com/) and [Polyscopic Works](https://polyscopic.works/). All content is identical to the original, except for changes in markup, formatting, typography, and such. No authorship is claimed by the creators of this website. For more information, read the [about section](https://whatistranshumanism.org/#about).
 
