@@ -10,7 +10,19 @@ This is a redesigned version of the [Transhumanist FAQ](http://humanityplus.org/
 
 Development
 -----------
-To run the site locally, just make sure you have [Jekyll](http://jekyllrb.com/) installed, then `cd` to the root directory of this repository and run `jekyll serve --watch`. By default, the site will then be available at [localhost:4000](http://localhost:4000). Improvements are much welcomed, just suggest them by opening a [pull request](https://github.com/alimony/whatistranshumanism.org/pulls). If you need more information on how this works, see the [GitHub documentation](https://help.github.com/articles/using-pull-requests).
+To install dependencies:
+
+    bundle install
+
+To update dependencies:
+
+    bundle update
+
+To run the site locally:
+
+    bundle exec guard
+
+The site will then be available at [localhost:4000](http://localhost:4001). Improvements are much welcomed, just suggest them by opening a [pull request](https://github.com/alimony/whatistranshumanism.org/pulls). If you need more information on how this works, see the [GitHub documentation](https://help.github.com/articles/using-pull-requests).
 
 Translations
 ------------
