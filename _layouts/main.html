@@ -28,13 +28,16 @@
 	<meta property="og:description" content="{{ page.description }}" />
 
 	<link rel="stylesheet" href="{{ site.baseurl }}/style.css" />
-	<link rel="canonical" href="{{ site.live_url }}{{ page.url | remove:'index.html' }}" />
 
 	<link rel="preload" href="{{ site.baseurl }}/fonts/vollkorn-regular.woff2" as="font" type="font/woff2" crossorigin>
 	<link rel="preload" href="{{ site.baseurl }}/fonts/vollkorn-italic.woff2" as="font" type="font/woff2" crossorigin>
 
 	<link rel="preload" href="{{ site.baseurl }}/img/background.png" as="image" type="image/png">
 	<link rel="preload" href="{{ site.baseurl }}/img/mesh-top.png" as="image" type="image/png">
+
+	{% assign canonical_url = site.live_url | append: page.url | strip_index %}
+	<link rel="canonical" href="{{ canonical_url }}">
+
 	<script>
 	if (window.location.hostname === '{{ site.live_hostname }}') {
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
