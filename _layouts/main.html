@@ -13,20 +13,26 @@
 	{% endif %}
 	<meta charset="utf-8" />
 	<title>{{ page.title }}</title>
+
 	<meta name="description" content="{{ page.description }}" />
 	<meta name="author" content="{{ site.author }}">
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
+
 	<meta property="fb:admins" content="100006677808750" />
+
 	<meta property="og:title" content="{{ page.title }}" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="{{ site.live_url }}{{ page.url | remove:'index.html' }}" />
 	<meta property="og:image" content="{{ site.live_url }}/{{ current_language | append:'/' | replace:'en-US/','' }}img/what-is-transhumanism-{{ current_language }}-200px.png" />
 	<meta property="og:site_name" content="{{ page.title }}" />
 	<meta property="og:description" content="{{ page.description }}" />
+
 	<link rel="stylesheet" href="{{ site.baseurl }}/style.css" />
 	<link rel="canonical" href="{{ site.live_url }}{{ page.url | remove:'index.html' }}" />
+
 	<link rel="preload" href="{{ site.baseurl }}/fonts/vollkorn-regular.woff2" as="font" type="font/woff2" crossorigin>
 	<link rel="preload" href="{{ site.baseurl }}/fonts/vollkorn-italic.woff2" as="font" type="font/woff2" crossorigin>
+
 	<link rel="preload" href="{{ site.baseurl }}/img/background.png" as="image" type="image/png">
 	<link rel="preload" href="{{ site.baseurl }}/img/mesh-top.png" as="image" type="image/png">
 	<script>
