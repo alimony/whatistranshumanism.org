@@ -22,7 +22,7 @@ To run the site locally:
 
     bundle exec guard
 
-The site will then be available at [localhost:4000](http://localhost:4001). Improvements are much welcomed, just suggest them by opening a [pull request](https://github.com/alimony/whatistranshumanism.org/pulls). If you need more information on how this works, see the [GitHub documentation](https://help.github.com/articles/using-pull-requests).
+The site will then be available at [localhost:4001](http://localhost:4001). Improvements are much welcomed, just suggest them by opening a [pull request](https://github.com/alimony/whatistranshumanism.org/pulls). If you need more information on how this works, see the [GitHub documentation](https://help.github.com/articles/using-pull-requests).
 
 Translations
 ------------
