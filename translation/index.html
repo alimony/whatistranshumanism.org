@@ -61,8 +61,8 @@ translations in need of update.
 			<li>for_kindle</li>
 		</ul>
 	</li>
-	<li>Translate the rest of the document, leaving all HTML as is. Internal links (starting with <span class="code">#</span>) should be translated as well, and be based on the title of the linked question. These “<a href="https://en.wikipedia.org/wiki/Slug_(web_publishing)#Slug">slugs</a>” are constructed by lowercasing the title, replacing all spaces with dashes, and converting all special character to ASCII. An easy way is to use an online slug generator, like <a href="https://www.bonkersabouttech.com/tools/slug-generator/">this one</a>.</li>
-	<li>If you are on <a href="https://github.com/">GitHub</a>, push your translation to a new branch and <a href="https://github.com/alimony/whatistranshumanism.org/pulls">open a pull request</a>. More info on how this works is in the <a href="https://help.github.com/articles/using-pull-requests">GitHub documentation</a>.</li>
+	<li>Translate the rest of the document, leaving all HTML as is. Internal links (starting with <span class="code">#</span>) should be translated as well, and be based on the title of the linked question. These “<a href="https://en.wikipedia.org/wiki/Slug_(web_publishing)#Slug">slugs</a>” are constructed by lowercasing the title, replacing all spaces with dashes, and converting all special character to ASCII. An easy way is to use an online slug generator, like <a href="https://slugify.online/">this one</a>.</li>
+	<li>If you are on <a href="https://github.com/">GitHub</a>, push your translation to a new branch and <a href="https://github.com/alimony/whatistranshumanism.org/pulls">open a pull request</a>. More info on how this works is in the <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests">GitHub documentation</a>.</li>
 	<li>If not, just zip your new translation directory and send it to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.</li>
 </ol>
 
@@ -71,7 +71,7 @@ translations in need of update.
 <p>On the top of this page there will be a list of translations that need updating, and a link to a diff showing what has changed since that language was last updated. With this information, you can make the necessary changes in the translation:</p>
 
 <ol>
-	<li>Make sure you have the latest version of the website, by <a href="https://help.github.com/articles/syncing-a-fork">syncing</a> your local copy with the main repository.</li>
+	<li>Make sure you have the latest version of the website, by <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork">syncing</a> your local copy with the main repository.</li>
 	<li>Edit <span class="code">index.html</span> in the language directory, updating it according to the latest version of the original.</li>
 	<li>Open <span class="code">_config.yml</span> and copy the value of <span class="code">latest_commit</span>.</li>
 	<li>Change the value of the <span class="code">based_on_commit</span> variable in your translation by pasting the copied value from the previous step.</li>
