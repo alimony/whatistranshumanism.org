@@ -65,7 +65,7 @@ ul, ol
 	> p:first-child
 		margin: 0 0 1em 0
 
-	h3
+	h3, .h3
 		margin: 1em 0 0 0
 
 	ul,
@@ -103,18 +103,6 @@ ul, ol
 	@media all and (max-width: 52em)
 		padding: 1em
 
-.share
-	margin-top: 0.5em
-
-	.twitter-share-button
-		margin-top: 0.5em
-
-#footer .share
-	margin-top: 1em
-
-	& + p
-		margin-top: 0.5em
-
 #wrapper
 	background: #f9f9f5 url(img/mesh-top.png) right top no-repeat
 	max-width: 32em
@@ -133,13 +121,15 @@ li ul,
 li ol
 	list-style-type: disc
 
-h1, h2, h3
+h1, h2, h3, h4,
+.h1, .h2, .h3, .h4
 	color: black
 
-h1, h2
+h1, h2,
+.h1, .h2
 	font-weight: normal
 
-h1
+h1, .h1
 	font-size: 140%
 	line-height: 1.25
 	margin: 1em 0 0 0
@@ -165,16 +155,19 @@ h1
 			font-size: 65%
 			margin-left: 0
 
-h2
+h2, .h2
 	font-size: 117%
 	line-height: 1.25
 	margin: 0 0 0.75em 0
 	padding-top: 1.25em
 
-h1 + h2
+h1 + h2,
+h1 + .h2,
+.h1 + h2,
+.h1 + .h2
 	padding-top: 1em
 
-h3
+h3, .h3
 	margin: 1em 0 0 0
 	font-weight: bold
 	font-size: 100%
@@ -216,7 +209,8 @@ a:hover
 a:active
 	color: black
 
-h1, h2
+h1, h2,
+.h1, .h2
 	a:link, a:visited, a:hover, a:active
 		color: black
 		text-decoration: none
@@ -278,19 +272,19 @@ h1, h2
 	.back-to-top
 		display: none
 
-	h1
+	h1, .h1
 		margin-bottom: 0
 
 	.print-only
 		display: block
 
-	h1, h2, h3, blockquote
+	h1, h2, h3, .h1, .h2, .h3, blockquote
 		page-break-inside: avoid
 
-	h1, h2, h3
+	h1, h2, h3, .h1, .h2, .h3
 		page-break-after: avoid
 
-	h1, h2, h3, p
+	h1, h2, h3, .h1, .h2, .h3, p
 		orphans: 3
 		widows: 3
 
